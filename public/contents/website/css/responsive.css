@@ -1,0 +1,1652 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+    /*    header and banner part*/
+    .stars {
+        /*        display: none;*/
+        width: 100%;
+        display: none;
+    }
+
+    #header .row .col-md-12 .banner .banner-left .banner-left-body .left-inner .left-backlight {
+        display: none;
+    }
+
+    .show_menu {
+        display: none;
+    }
+
+    .top-navbar {
+        display: none;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body {
+        width: 782px;
+    }
+
+    #header {
+        padding-bottom: 0px;
+        overflow: hidden;
+        padding-top: 30px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body .menu-items {
+        width: 375px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body .menu-items:before {
+        width: 0;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body {
+        width: 510px;
+        background-size: 557px 171px;
+        background-position: -38px -5px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body .menu-items .left {
+        width: 550px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body .menu-items .right {
+        width: 260px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body .menu-items .right ul li {
+        margin-bottom: 5px;
+    }
+
+    .banner-right {
+        display: none;
+    }
+
+
+    #header .row .col-md-12 .banner .banner-left .banner-left-body {
+        left: 0%;
+        top: 0;
+        transform: translate(0%, -0%);
+        width: 100%;
+        background-size: 0% 0%;
+        height: 780px;
+
+    }
+
+
+    #header .row .col-md-12 .banner .banner-left {
+        top: 0%;
+        overflow: hidden;
+        height: 780px;
+        padding-top: 0;
+        margin-top: 0;
+        transform: translate(0);
+    }
+
+    .common-heading h3 {
+        font-size: 22px;
+    }
+
+    .common-heading .top-line,
+    .common-heading .bottom-line {
+        width: 95%;
+    }
+
+    #header .row .col-md-12 .banner .banner-left {
+        overflow: visible;
+    }
+
+    #header .row .col-md-12 .banner .banner-left .banner-left-body .left-inner .profile-pic {
+        margin-left: 50%;
+        transform: translateX(-50%);
+        margin-top: 45px;
+    }
+
+    #header .row .col-md-12 .banner .banner-left .banner-left-body .left-inner {
+        overflow: visible;
+    }
+
+    #header .row .col-md-12 .banner .banner-left .banner-left-body .left-inner .profile-des {
+        height: 355px;
+        width: 311px;
+        margin-left: 50%;
+        padding-left: 0;
+        transform: translateX(-50%);
+    }
+
+    #header .row .col-md-12 .banner .banner-left .banner-left-body .left-inner .profile-des .hire-me {
+        margin-top: 15px;
+    }
+    /* banner part  start */
+    #banner{
+        display: none;
+    }
+    #banner-responsive{
+        display: block;
+    }
+
+    /*    about me part*/
+    #about-me {
+        padding-top: 0px;
+        padding-bottom: 80px;
+    }
+
+    #about-me .left-image{
+        margin-top: 0px;
+    }
+
+    #about-me .common-heading {
+        display: none;
+        /*        border: 1px solid red;*/
+        left: 50%;
+        transform: translateX(-50%);
+        width: 220px;
+    }
+
+    #about-me .right-p ul {
+        padding: 60px 0px 50px;
+    }
+
+
+
+    #about-me .about-frame .right-des .des-body {
+        background-size: 0% 0%;
+        padding: 0;
+    }
+
+    /*    achivement part start*/
+    #acheivement{
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    #acheivement .common-heading h3{
+        font-size: 17px;
+    }
+    #acheivement .acheivement-logo {
+        margin-top: 50px;
+    }
+
+    #acheivement .acheivement-logo ul li {
+        padding-right: 15px;
+    }
+
+    #acheivement .right .left-line {
+        margin-top: 50px;
+    }
+
+    #acheivement .right .right-body h4 {
+        line-height: 40px;
+        padding-top: 30px;
+        font-size: 19px;
+    }
+
+    /*    achivement part end*/
+
+    /*    services part*/
+    #service {
+        padding-top: 80px;
+        padding-bottom: 0px;
+    }
+
+    #service .service-left {
+        float: left;
+        width: 300px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        padding-top: 70px;
+        display: none;
+    }
+
+    #service .service-right {
+        padding-left: 0;
+    }
+
+    #service .service-left .left-inner-div {
+        float: left;
+        margin-bottom: 0px;
+        margin: 17.5px;
+    }
+
+    #service .service-mid .ser-body {
+        height: 300px;
+        width: 285px;
+        margin: 15px auto;
+        background-image: none;
+
+    }
+
+    #service .service-mid .ser-body .ser-icon {
+        font-size: 65px;
+    }
+
+    #service .service-mid .ser-body h5 {
+        font-size: 25px;
+        padding-bottom: 20px;
+    }
+
+    #service .service-mid .ser-body p {
+        font-size: 16px;
+        line-height: 28px;
+        padding-left: 10px;
+    }
+
+    #service .service-left .mlr-0 {
+        margin-right: 0;
+    }
+
+    #service .common-heading {
+        width: 300px;
+        margin-left: 50%;
+        text-align: center;
+        left: 0;
+        transform: translateX(-50%);
+        display: block;
+    }
+
+    #service .common-heading .top-line,
+    #service .common-heading .bottom-line {
+        left: 30px;
+    }
+
+    #service .service-left .left-inner-top,
+    #service .service-left .left-inner-bottom {
+        display: none;
+        visibility: hidden;
+        width: 0;
+    }
+
+    #service .service-mid {
+        background-size: 0% 0%;
+    }
+
+    #service .service-mid .common-heading {
+        display: none;
+    }
+
+    #service .service-right .service-right-body .service-right-inner-top {
+        width: 63%;
+        height: auto;
+        float: left;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        display: none;
+    }
+
+    #service .service-right .service-right-body {
+        width: 99%;
+        background-size: 0% 0%;
+        overflow: hidden;
+    }
+
+    #service .service-right .service-right-body .service-right-inner {
+        width: 100%;
+        float: left;
+    }
+
+    #service .service-right .service-right-body .service-right-inner .service-right-inner-bottom {
+        width: 30%;
+        float: left;
+        padding: 0;
+    }
+
+    #service .service-right .service-right-body .service-right-inner .service-right-inner-bottom {
+        width: 94%;
+        float: left;
+        margin: 30px 12px;
+        margin-top: 24px;
+        padding-bottom: 30px;
+        overflow: hidden;
+        height: auto;
+        background: none;
+        padding: 0;
+    }
+
+    #service .service-right .service-right-body .service-right-inner .two h5 {
+        font-size: 22px;
+    }
+
+    #service .service-right .service-right-body .service-right-top-bar2,
+    #service .service-right .service-right-body .service-right-bottom-bar2,
+    #service .service-right .service-right-body .service-right-top-bar,
+    #service .service-right .service-right-body .service-right-bottom-bar {
+        display: none;
+    }
+
+    #service .service-right .service-right-body .service-right-inner-top .box-none {
+        display: none;
+    }
+    #service .service-mid .ser-body p{
+        padding-left: 0;
+    }
+
+    #service .sm .col-md-4{
+        padding: 0;
+    }
+
+    /* hire me part */
+    #hire-me{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        background: none;
+    }
+    #hire-me .left h5 {
+        font-size: 25px;
+        line-height: 39px;
+    }
+    #hire-me .right img{
+        margin-top: 50px;
+    }
+    /*    skill part */
+    #skill {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        background: none;
+    }
+
+    #skill .skill-b {
+        padding-bottom: 10px;
+        background: 0;
+        padding: 0px 10px;
+    }
+
+    #skill .skill-b .common-heading {
+        width: 240px;
+        text-align: center;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    #skill .skill-b .common-heading{
+        margin-top: 0;
+    }
+
+    #skill .common-heading .bottom-line,
+    #skill .common-heading .top-line {
+        left: 25px;
+    }
+
+    #skill .skill-b .nav-pills {
+        margin: 20px 0px;
+        display: block;
+        overflow: hidden;
+        padding: 12px 0px;
+        transform: translateY(0);
+        display: inline-block;
+        margin-top: 50px;
+    }
+
+    #skill .skill-b .skill-bar div.meter p {
+        font-size: 14px;
+    }
+
+    #skill .skill-b .nav-pills a {
+        display: inline-block;
+        padding: 10px;
+        margin: 10px 5px;
+    }
+
+    #skill .skill-b .skill-bar {
+        padding-top: 50px;
+    }
+
+    /*    portfolio part*/
+    #portfolio {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    #portfolio .common-heading {
+        width: 270px;
+    }
+
+    #portfolio .common-heading .top-line,
+    #portfolio .common-heading .bottom-line {
+        left: 12px;
+    }
+
+    #portfolio .controls ul li {
+        margin: 5px;
+    }
+
+    #portfolio .galleryPart .col-md-4 .gallery .gallery-overlay .br-left {
+        height: 175px;
+        width: 25px;
+    }
+
+    #portfolio .galleryPart .col-md-4 .gallery .gallery-overlay .br-bottom {
+        width: 217px;
+        height: 20px;
+    }
+
+    #portfolio .galleryPart .col-md-4 .gallery .gallery-overlay .visit-link {
+        bottom: 37px;
+        height: 38px;
+    }
+
+    /* team responsive */
+    #team{
+        display: none;
+    }
+    #team.team-responsive{
+        display: block;
+        padding-top: 0;
+    }
+    .common-heading h3 {
+        font-size: 18px;
+    }
+    /*    contact part*/
+    #contact {
+        padding-top: 80px;
+        padding-bottom: 80px;
+        background: none;
+    }
+
+    #contact .common-heading {
+        width: 300px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        margin-top: 0;
+
+    }
+
+    #contact .common-heading .top-line,
+    #contact .common-heading .bottom-line {
+        left: 12px;
+        width: 98%;
+    }
+
+    #contact form {
+        margin-top: 50px;
+        transform: translateY(0);
+    }
+
+    footer:before {
+        height: 96%;
+    }
+
+    footer .media{
+        margin-bottom: 20px;
+    }
+    footer .img-thumbnail{
+        margin-right: 5px;
+        width: 120px;
+    }
+
+    /* padding */
+    #header{
+        padding-top: 50px;
+    }
+
+    #banner-responsive{
+        padding: 0px 0px 23px;
+    }
+
+    #about-me{
+        padding: 65px 0px 35px;
+    }
+
+    #acheivement{
+        padding: 65px 0px 30px;
+    }
+    #service{
+        padding: 65px 0px 00px;
+    }
+    #hire-me{
+        padding: 65px 0px;
+    }
+    #skill{
+        padding: 65px 0px;
+    }
+    #portfolio{
+        padding: 65px 0px;
+    }
+    #team.team-responsive{
+        padding: 65px 0px;
+    }
+    #contact{
+        padding: 65px 0px;
+    }
+    footer{
+        padding-top: 35px;
+    }
+
+}
+@media (min-width: 320px) and (max-width: 349.98px){
+    #header .row .col-md-12 .banner .banner-left .banner-left-body .left-inner .profile-des{
+        width: 290px;
+    }
+    #header .row .col-md-12 .banner .banner-left .banner-left-body .left-inner .profile-des .hire-me{
+        padding: 10px 15px;
+        margin: 0 2px;
+    }
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /*    header and banner part*/
+    .stars {
+        /*        display: none;*/
+        width: 100%;
+    }
+
+    .show_menu {
+        display: none;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body {
+        width: 782px;
+    }
+    #header {
+        padding-bottom: 0px;
+        overflow: hidden;
+        padding-top: 30px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body .menu-items {
+        width: 375px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body .menu-items:before {
+        width: 0;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body {
+        width: 510px;
+        background-size: 557px 171px;
+        background-position: -38px -5px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body .menu-items .left {
+        width: 550px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body .menu-items .right {
+        width: 260px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body .menu-items .right ul li {
+        margin-bottom: 5px;
+    }
+
+    .banner-right {
+        display: none;
+    }
+
+    #header .row .col-md-12 .banner .banner-left .banner-left-body {
+        left: 0%;
+        top: 0;
+        transform: translate(0%, -0%);
+        width: 548px;
+        background-size: 0% 0%;
+        height: 780px;
+
+    }
+
+    #header .row .col-md-12 .banner .banner-left {
+        top: 0%;
+        overflow: hidden;
+        height: 780px;
+        padding-top: 0;
+        margin-top: 0;
+        transform: translate(0);
+    }
+
+    #header .row .col-md-12 .banner .banner-left .banner-left-body .left-inner .profile-pic {
+        margin-left: 50%;
+        transform: translateX(-50%);
+        margin-top: 45px;
+    }
+
+    #header .row .col-md-12 .banner .banner-left .banner-left-body .left-inner .profile-des {
+        height: 345px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #header .row .col-md-12 .banner .banner-left .banner-left-body .left-inner .profile-des .hire-me {
+        margin-top: 15px;
+        margin: 15px 2px 0px;
+    }
+
+    /* banner part  start */
+    #banner{
+        display: none;
+    }
+    #banner-responsive{
+        display: block;
+    }
+
+    /*    about me part*/
+
+
+    #about-me {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #about-me .left-image{
+        margin-top: 90px;
+    }
+    #about-me .right-p ul{
+        padding-top: 50px;
+    }
+
+    #about-me .common-heading{
+        margin-top: 100px;
+        left: 60%;
+        transform: translateX(-50%)    ;
+        -webkit-transform: translateX(-50%)    ;
+        -moz-transform: translateX(-50%)    ;
+        -ms-transform: translateX(-50%)    ;
+        -o-transform: translateX(-50%)    ;
+}
+
+    /*    achievement part start*/
+    #acheivement{
+        padding-bottom: 0px;
+        padding-top: 50px;
+    }
+    #acheivement .acheivement-logo {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    #acheivement .common-heading{
+        margin-bottom: 35px;
+    }
+
+
+    /*    achievement part end*/
+    /*    services part*/
+    #service {
+        padding-top: 70px;
+        padding-bottom: 100px;
+    }
+
+    .service-slide {
+        background: red
+    }
+
+    #service .service-left {
+        float: left;
+        width: 405px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        padding-top: 70px;
+    }
+
+    #service .service-left .left-inner-div {
+        float: left;
+        margin-bottom: 0px;
+        margin: 17.5px;
+    }
+
+    #service .service-mid .ser-body {
+        height: 300px;
+        width: 400px;
+        margin: 15px auto;
+        ;
+    }
+
+    #service .service-mid .ser-body .ser-icon {
+        font-size: 65px;
+    }
+
+    #service .service-mid .ser-body h5 {
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+
+    #service .service-mid .ser-body p {
+        font-size: 18px;
+        line-height: 28px;
+        padding-left: 10px;
+    }
+
+    #service .service-left .mlr-0 {
+        margin-right: 0;
+    }
+
+    #service .common-heading {
+        width: 400px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        display: block;
+    }
+
+    #service .service-left .left-inner-top,
+    #service .service-left .left-inner-bottom {
+        display: none;
+        visibility: hidden;
+        width: 0;
+    }
+
+    #service .service-mid {
+        background-size: 0% 0%;
+    }
+
+    #service .service-mid .common-heading {
+        display: none;
+    }
+
+    #service .service-right .service-right-body .service-right-inner-top {
+        width: 63%;
+        height: auto;
+        float: left;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #service .service-right .service-right-body {
+        width: 99%;
+        background-size: 0% 0%;
+        overflow: hidden;
+    }
+
+    #service .service-right .service-right-body .service-right-inner {
+        width: 100%;
+        float: left;
+    }
+
+    #service .service-right .service-right-body .service-right-inner .service-right-inner-bottom {
+        width: 30%;
+        float: left;
+    }
+
+    #service .service-right .service-right-body .service-right-inner .service-right-inner-bottom {
+        width: 94%;
+        float: left;
+        margin: 30px 12px;
+        margin-top: 24px;
+        padding-bottom: 30px;
+        overflow: hidden;
+        height: auto;
+    }
+
+    #service .service-right .service-right-body .service-right-inner .two h5 {
+        font-size: 22px;
+    }
+
+    #service .service-right .service-right-body .service-right-top-bar2,
+    #service .service-right .service-right-body .service-right-bottom-bar2,
+    #service .service-right .service-right-body .service-right-top-bar,
+    #service .service-right .service-right-body .service-right-bottom-bar {
+        display: none;
+    }
+
+    #service .service-right .service-right-body .service-right-inner-top .box-none {
+        display: none;
+    }
+
+    /* hire me part start */
+    #hire-me{
+        padding-top: 0;
+        padding-bottom: 0;
+        background: none;
+    }
+    #hire-me .right img{
+        margin-top: 50px;
+    }
+
+    /*    skill part */
+    #skill {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+
+    #skill .skill-b {
+        padding-bottom: 50px;
+    }
+
+    #skill .skill-b .common-heading {
+        width: 75%;
+    }
+
+    #skill .skill-b .nav-pills {
+        margin: 20px 0px;
+        display: block;
+        overflow: hidden;
+        padding: 12px 0px;
+        transform: translateY(0);
+        display: inline-block;
+        margin-top: 50px;
+    }
+
+    #skill .skill-b .nav-pills a {
+        display: inline-block;
+        padding: 10px;
+        margin: 10px 5px;
+    }
+
+    #skill .skill-b .skill-bar {
+        padding-top: 50px;
+    }
+
+    /*    portfolio part*/
+    #portfolio {
+        padding-top: 50px;
+        padding-bottom: 150px;
+    }
+
+    #portfolio .common-heading {
+        width: 75%;
+    }
+
+    #portfolio .controls ul li {
+        margin: 5px;
+    }
+
+    #portfolio .galleryPart .col-md-4 .gallery .gallery-overlay .br-left {
+        height: 357px;
+    }
+
+    #portfolio .galleryPart .col-md-4 .gallery .gallery-overlay .br-bottom {
+        width: 438px;
+    }
+
+    #portfolio .galleryPart .col-md-4 .gallery .gallery-overlay .visit-link {
+        bottom: 95px;
+    }
+    #skill .skill-b{
+        background: none;
+    }
+    /* team responsive */
+    #team{
+        display: none;
+    }
+    #team.team-responsive{
+        display: block;
+        padding-top: 0;
+        padding-bottom: 50px;
+    }
+    /*    contact part*/
+    #contact {
+        padding-top: 30px;
+        padding-bottom: 150px;
+        background: none;
+    }
+
+    #contact .common-heading {
+        width: 500px;
+        margin-left: 37%;
+    }
+
+    #contact form {
+        margin-top: 100px;
+        transform: translateY(0);
+    }
+
+    footer:before {
+        height: 95%;
+    }
+    footer .media{
+        margin-bottom: 15px;
+    }
+    footer .img-thumbnail{
+        margin: 5px;
+    }
+    /* padding */
+    #header{
+        padding-top: 0px;
+    }
+
+    #banner-responsive{
+        padding: 0px 0px 23px;
+    }
+
+    #about-me{
+        padding: 65px 0px 35px;
+    }
+
+    #acheivement{
+        padding: 65px 0px 30px;
+    }
+    #service{
+        padding: 65px 0px 00px;
+    }
+    #hire-me{
+        padding: 65px 0px;
+    }
+    #skill{
+        padding: 65px 0px;
+    }
+    #portfolio{
+        padding: 65px 0px;
+    }
+    #team.team-responsive{
+        padding: 65px 0px;
+    }
+    #contact{
+        padding: 65px 0px;
+    }
+    footer{
+        padding-top: 35px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+    /*    header and banner part*/
+    .stars {
+        /*        display: none;*/
+        width: 100%;
+    }
+
+    .hidden_menu .top-navbar .nav-body {
+        width: 728px;
+        background-size: 771px 170px;
+    }
+
+    .hidden_menu .top-navbar .nav-body .menu-items .left ul li:last-child {
+        display: none;
+    }
+
+    .hidden_menu .top-navbar .nav-body .menu-items {
+        width: 533px;
+    }
+
+    .hidden_menu .top-navbar .nav-body .menu-items .left {
+        width: 525px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body {
+        width: 782px;
+    }
+
+    #header {
+        padding-bottom: 0px;
+        overflow: hidden;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body .menu-items {
+        width: 645px;
+    }
+
+    .hidden_menu .top-navbar .nav-body .menu-items:before {
+        right: 50px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body {
+        width: 782px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body .menu-items .left {
+        width: 550px;
+    }
+
+    #header .row .col-md-12 .banner .top-navbar .nav-body .menu-items .right {
+        width: 400px;
+    }
+
+    .banner-right {
+        display: none;
+    }
+
+    #header .row .col-md-12 .banner .banner-left .banner-left-body {
+        left: 88%;
+        transform: translate(-50%, -50%);
+    }
+
+    /* #header .row .col-md-12 .banner .banner-left {
+        /* top: 37%;
+    } */
+
+    #header .row .col-md-12 .banner .banner-left .banner-left-body .left-inner .profile-des .hire-me{
+        margin-left: 5px;
+    }
+
+    /* banner part start */
+    #banner{
+        display: none;
+    }
+    #banner-responsive{
+        display: block;
+    }
+
+    /*    about me part*/
+    #about-me {
+        padding-top: 150px;
+        padding-bottom: 0px;
+    }
+
+    #about-me .common-heading {
+        left: 8%;
+    }
+
+    #about-me .common-heading h3{
+        font-size: 30px;
+    }
+    #about-me .about-p h4{
+        font-size: 20px;
+    }
+    #about-me .right-p ul li{
+        font-size: 15px;
+    }
+    #about-me .left-image .r1{
+        bottom: -116px;
+        left: -111px;
+    }
+    #about-me .left-image .r2{
+        left: -65px;
+        bottom: -65px;
+    }
+
+    /* acheivement part start */
+    #acheivement{
+        padding-bottom: 0;
+    }
+    #acheivement .common-heading h3{
+        font-size: 23px;
+    }
+    #acheivement .right .right-body h4{
+        font-size: 25px;
+    }
+
+    /*    services part*/
+    #service {
+        padding-top: 150px;
+        padding-bottom: 100px;
+    }
+
+    #service .service-left {
+        float: left;
+        width: 642px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        padding-top: 100px;
+    }
+
+    #service .service-left .left-inner-div {
+        float: left;
+        margin-bottom: 0px;
+        margin-right: 35px;
+    }
+
+    #service .service-left .mlr-0 {
+        margin-right: 0;
+    }
+
+    #service .common-heading {
+        width: 400px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        display: block;
+    }
+
+    #service .service-left .left-inner-top,
+    #service .service-left .left-inner-bottom {
+        display: none;
+    }
+
+    #service .service-mid {
+        background-size: 0% 0%;
+    }
+
+    #service .service-mid .common-heading {
+        display: none;
+    }
+
+    #service .service-right .service-right-body .service-right-inner-top {
+        width: 61%;
+        height: auto;
+        float: left;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #service .service-right .service-right-body {
+        width: 99%;
+        background-size: 0% 0%;
+        overflow: hidden;
+    }
+
+    #service .service-right .service-right-body .service-right-inner {
+        width: 100%;
+        float: left;
+    }
+
+    #service .service-right .service-right-body .service-right-inner .service-right-inner-bottom {
+        width: 30%;
+        float: left;
+    }
+
+    #service .service-right .service-right-body .service-right-inner .service-right-inner-bottom {
+        width: 46%;
+        float: left;
+        margin: 30px 12px;
+        margin-top: 24px;
+        padding-bottom: 30px;
+        overflow: hidden;
+        height: auto;
+    }
+
+    #service .service-right .service-right-body .service-right-top-bar2,
+    #service .service-right .service-right-body .service-right-bottom-bar2,
+    #service .service-right .service-right-body .service-right-top-bar,
+    #service .service-right .service-right-body .service-right-bottom-bar {
+        display: none;
+    }
+
+    #service .service-right .service-right-body .service-right-inner-top .box-none {
+        display: none;
+    }
+
+    /* hireme part start */
+    #hire-me{
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    #hire-me .left h5{
+        font-size: 28px;
+    }
+
+    /*    skill part */
+    #skill {
+        padding-top: 150px;
+        padding-bottom: 0px;
+    }
+
+    #skill .skill-b {
+        padding-bottom: 50px;
+    }
+
+    #skill .skill-b .common-heading {
+        width: 400px;
+        margin-left: 65%;
+    }
+
+    #skill .skill-b .nav-pills {
+        margin: 20px;
+        display: block;
+        overflow: hidden;
+        padding: 12px 5px;
+        transform: translateY(0);
+        display: inline-block;
+        margin-top: 50px;
+    }
+
+    #skill .skill-b .nav-pills a {
+        display: inline;
+    }
+
+    #skill .skill-b .skill-bar {
+        padding-top: 50px;
+    }
+
+    /*    portfolio part*/
+    #portfolio {
+        padding-top: 150px;
+        padding-bottom: 0px;
+    }
+
+    #portfolio .common-heading {
+        width: 500px;
+        margin-left: 68%;
+    }
+
+    #portfolio .galleryPart .col-md-4 .gallery .gallery-overlay .br-left {
+        height: 198px;
+    }
+
+    #portfolio .galleryPart .col-md-4 .gallery .gallery-overlay .br-bottom {
+        width: 238px;
+        display: none;
+    }
+    #portfolio .galleryPart .col-md-4 .gallery .gallery-overlay .br-left{
+        display: none;
+    }
+    #portfolio .galleryPart .col-md-4 .gallery .gallery-overlay .visit-link{
+        bottom: 0;
+        background: none;
+    }
+    /* team part start */
+    #team .common-heading{
+        width: 120%;
+    }
+    #team .common-heading h3{
+        font-size: 30px;
+    }
+    #team .team-body .l1{
+        left: 40%;
+    }
+    #team .team-body .l2{
+        left: 25%;
+    }
+    #team .team-body .l3{
+        left: 8%;
+    }
+    #team .team-body .l4{
+        left: 61%;
+    }
+    #team .team-body .l5 .per-overlay{
+        left: -100%;
+    }
+    /*    contact part*/
+    #contact {
+        padding-top: 0px;
+        padding-bottom: 150px;
+        background: none;
+    }
+
+    #contact .common-heading {
+        width: 500px;
+        margin-left: 40%;
+    }
+
+    #contact form {
+        margin-top: 100px;
+        transform: translateY(0);
+    }
+
+    /* padding */
+    #header{
+        padding-top: 0px;
+    }
+
+    #banner-responsive{
+        padding: 0px 0px 23px;
+    }
+
+    #about-me{
+        padding: 65px 0px 35px;
+    }
+
+    #acheivement{
+        padding: 65px 0px 30px;
+    }
+    #service{
+        padding: 65px 0px 00px;
+    }
+    #hire-me{
+        padding: 65px 0px;
+    }
+    #skill{
+        padding: 65px 0px;
+    }
+    #portfolio{
+        padding: 65px 0px 35px;
+    }
+    #team{
+        padding: 65px 0px 0px;
+    }
+    #team.team-responsive{
+        padding: 65px 0px;
+    }
+    #contact{
+        padding: 65px 0px;
+    }
+    footer{
+        padding-top: 35px;
+    }
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /*    header and banner part*/
+    .stars {
+        /*        display: none;*/
+        width: 100%;
+    }
+
+    #header {
+        padding-bottom: 50px;
+        overflow: hidden;
+    }
+
+    .banner-right {
+        display: none;
+    }
+
+    #header .row .col-md-12 .banner .banner-left .banner-left-body {
+        left: 88%;
+        transform: translate(-50%, -50%);
+    }
+    /* banner part start */
+    #banner{
+        display: none;
+    }
+    #banner-responsive{
+        display: block;
+    }
+    /*    about me part*/
+    #about-me {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+
+    #about-me .about-p h4{
+        font-size: 20px;
+    }
+
+    /* .acheivement part start */
+    #acheivement .common-heading h3{
+        font-size: 33px;
+    }
+
+    /* .hire-me part start */
+    #hire-me .left h5{
+        font-size: 35px;
+    }
+
+    /*    services part*/
+    #service {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+
+    #service .service-left {
+        float: left;
+        width: 670px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        padding-top: 100px;
+    }
+
+    #service .service-left .left-inner-div {
+        float: left;
+        margin-bottom: 0px;
+        margin-right: 35px;
+    }
+
+    #service .service-left .mlr-0 {
+        margin-right: 0;
+    }
+
+    #service .common-heading {
+        width: 400px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        display: block;
+    }
+
+    #service .service-left .left-inner-top,
+    #service .service-left .left-inner-bottom {
+        display: none;
+    }
+
+    #service .service-mid {
+        background-size: 0% 0%;
+    }
+
+    #service .service-mid .common-heading {
+        display: none;
+    }
+
+    #service .service-right .service-right-body .service-right-inner-top {
+        width: 100px;
+        height: auto;
+        float: left;
+    }
+
+    #service .service-right .service-right-body {
+        width: 99%;
+        background-size: 0% 0%;
+        overflow: hidden;
+    }
+
+    #service .service-right .service-right-body .service-right-inner {
+        width: 89%;
+        float: left;
+    }
+
+    #service .service-right .service-right-body .service-right-inner .service-right-inner-bottom {
+        width: 30%;
+        float: left;
+    }
+
+    #service .service-right .service-right-body .service-right-inner .service-right-inner-bottom {
+        width: 46%;
+        float: left;
+        margin-left: 30px;
+        margin-top: 24px;
+        padding-bottom: 30px;
+        overflow: hidden;
+        height: auto;
+    }
+
+    #service .service-right .service-right-body .service-right-top-bar2,
+    #service .service-right .service-right-body .service-right-bottom-bar2,
+    #service .service-right .service-right-body .service-right-top-bar,
+    #service .service-right .service-right-body .service-right-bottom-bar {
+        display: none;
+    }
+
+    #service .service-right .service-right-body .service-right-inner-top .box-none {
+        display: none;
+    }
+
+    /*    skill part */
+    #skill {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+
+    #skill .skill-b .common-heading {
+        width: 400px;
+    }
+
+    #skill .skill-b .nav-pills {
+        margin-top: 70%;
+    }
+
+    /*    portfolio part*/
+    #portfolio {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+
+    #portfolio .common-heading {
+        width: 500px;
+    }
+
+    #portfolio .galleryPart .col-md-4 .gallery .gallery-overlay .br-left {
+        height: 198px;
+    }
+
+    #portfolio .galleryPart .col-md-4 .gallery .gallery-overlay .br-bottom {
+        width: 238px;
+    }
+
+    /*    contact part*/
+    #contact {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+
+    #contact form {
+        margin-top: 100px;
+        transform: translateY(0);
+    }
+
+        /* padding */
+        #header{
+            padding-top: 0px;
+        }
+
+        #banner-responsive{
+            padding: 0px 0px 23px;
+        }
+
+        #about-me{
+            padding: 65px 0px 35px;
+        }
+
+        #acheivement{
+            padding: 65px 0px 30px;
+        }
+        #service{
+            padding: 65px 0px 00px;
+        }
+        #hire-me{
+            padding: 65px 0px;
+        }
+        #skill{
+            padding: 65px 0px;
+        }
+        #portfolio{
+            padding: 65px 0px 35px;
+        }
+        #team{
+            padding: 65px 0px 0px;
+        }
+        #team.team-responsive{
+            padding: 65px 0px;
+        }
+        #contact{
+            padding: 65px 0px;
+        }
+        footer{
+            padding-top: 35px;
+        }
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    #header .row .col-md-12 .banner .banner-right .menu {
+        right: 29px;
+    }
+
+        /* padding */
+        #header{
+            padding-top: 0px;
+        }
+
+        #banner-responsive{
+            padding: 0px 0px 23px;
+        }
+
+        #about-me{
+            padding: 65px 0px 35px;
+        }
+
+        #acheivement{
+            padding: 150px 0px 50px;
+        }
+        #service{
+            padding: 65px 0px 00px;
+        }
+        #hire-me{
+            padding: 150px 0px;
+        }
+        #skill{
+            padding: 65px 0px;
+        }
+        #portfolio{
+            padding: 120px 0px 35px;
+        }
+        #team{
+            padding: 65px 0px 0px;
+        }
+        #team.team-responsive{
+            padding: 65px 0px;
+        }
+        #contact{
+            padding: 65px 0px;
+        }
+        footer{
+            padding-top: 35px;
+        }
+
+}
+
+@media (min-width: 1200px) and (max-width: 1500.98px) {
+
+    .col-xl-service {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    #service {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+
+    #service .service-left {
+        float: left;
+        width: 670px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        padding-top: 100px;
+    }
+
+    #service .service-left .left-inner-div {
+        float: left;
+        margin-bottom: 0px;
+        margin-right: 35px;
+    }
+
+    #service .service-left .mlr-0 {
+        margin-right: 0;
+    }
+
+    #service .common-heading {
+        width: 400px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        display: block;
+    }
+
+    #service .service-left .left-inner-top,
+    #service .service-left .left-inner-bottom {
+        display: none;
+    }
+
+    #service .service-mid {
+        background-size: 0% 0%;
+    }
+
+    #service .service-mid .common-heading {
+        display: none;
+    }
+
+    #service .service-right .service-right-body .service-right-inner-top {
+        width: 100px;
+        height: auto;
+        float: left;
+    }
+
+    #service .service-right .service-right-body {
+        width: 99%;
+        background-size: 0% 0%;
+        overflow: hidden;
+    }
+
+    #service .service-right .service-right-body .service-right-inner {
+        width: 89%;
+        float: left;
+    }
+
+    #service .service-right .service-right-body .service-right-inner .service-right-inner-bottom {
+        width: 30%;
+        float: left;
+    }
+
+    #service .service-right .service-right-body .service-right-inner .service-right-inner-bottom {
+        width: 46%;
+        float: left;
+        margin-left: 30px;
+        margin-top: 24px;
+        padding-bottom: 30px;
+        overflow: hidden;
+        height: auto;
+    }
+
+    #service .service-right .service-right-body .service-right-top-bar2,
+    #service .service-right .service-right-body .service-right-bottom-bar2,
+    #service .service-right .service-right-body .service-right-top-bar,
+    #service .service-right .service-right-body .service-right-bottom-bar {
+        display: none;
+    }
+
+    #service .service-right .service-right-body .service-right-inner-top .box-none {
+        display: none;
+    }
+
+    #service .service-mid .ser-body p {
+        font-size: 15px;
+    }
+
+}
+
