@@ -1,7 +1,7 @@
 <p align="center"><img src="http://mdshefat.com/a/photo/logo.png"></p>
 
 <p align="center">
-<a href="http://mdshefat.com"><img src="http://mdshefat.com/a/photo/zw.png" alt="Build Status"></a>
+<a href="http://mdshefat.com"><img src="http://mdshefat.com/a/photo/zw.jpg" alt="Build Status"></a>
 <a href="https://www.facebook.com/profile.php?id=100007517444767"><img src="http://mdshefat.com/a/photo/zf.png" alt="Total Downloads"></a>
 <a href="https://twitter.com/Md_Shefat_Masum"><img src="http://mdshefat.com/a/photo/zt.png" alt="Latest Stable Version"></a>
 <a href="https://www.linkedin.com/in/md-shefat-ms512382/"><img src="http://mdshefat.com/a/photo/zl.png" alt="License"></a>
