@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Wed Jul 24 2019 23:38:34 GMT-0600 (Central Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+
+
+Deleted files:
+* my_site.sql
+
+
+Renamed files:
