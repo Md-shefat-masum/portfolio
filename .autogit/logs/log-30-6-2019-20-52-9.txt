@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Tue Jul 30 2019 20:52:09 GMT+0600 (Bangladesh Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-30-6-2019-20-22-0.txt
+
+
+Deleted files:
+
+
+Renamed files:
