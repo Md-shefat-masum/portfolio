@@ -97,42 +97,14 @@
 					<div id="artigo-responsive-menu-trigger">Menu</div>
 					<nav class="main-nav">
 						<ul>
-							<li class="current_page_item"> <a href="index.html" title=""> Home </a>
-								<ul class="artigo-sub-menu">
-									<li> <a href="index.html" title=""> Home - Sliders </a>
-										<ul class="artigo-sub-menu">
-											<li> <a href="index-grid-slider.html" title=""> Grid Slider </a> </li>
-											<li> <a href="index-timeline-slider.html" title=""> Timeline Blog Slider </a> </li>
-											<li> <a href="index-carousel-slider.html" title=""> Carousel Slider </a> </li>
-											<li> <a href="index-fullwidth-slider.html" title=""> Fullwidth Slider </a> </li>
-											<li> <a href="index-content-width-slider.html" title=""> Content Width Slider </a> </li>
-											<li> <a href="index-column-grid-slider.html" title=""> Column Grid Slider </a> </li>
-										</ul>
-									</li>
-									<li> <a href="index-minimal.html" title=""> Home - Minimal </a> </li>
-									<li> <a href="index-fullwidth-slider.html" title=""> Home - Fullwidth </a> </li>
-									<li> <a href="index-fullwidth-no-sidebar.html" title=""> Home - FW NO Sidebar </a> </li>
-									<li> <a href="index-simple-rounded.html" title=""> Home - Simple Rounded Image Style </a> </li>
-									<li> <a href="index-grid.html" title=""> Home - Grid Style </a> </li>
-									<li> <a href="index-grid-sidebar.html" title=""> Home - Sidebar Grid </a> </li>
-									<li> <a href="index-full-grid.html" title=""> Home - 1ST FW Then Grid </a> </li>
-									<li> <a href="index-list.html" title=""> Home - List Style </a> </li>
-									<li> <a href="index-list-sidebar.html" title=""> Home - Sidebar List </a> </li>
-									<li> <a href="index-full-list.html" title=""> Home - 1ST FW Then List </a> </li>
-								</ul>
-							</li>
-							<li> <a href="author-detail.html" title=""> About </a> </li>
-							<li> <a href="blog-detail.html" title=""> Post Types </a>
-								<ul class="artigo-sub-menu">
-									<li> <a href="blog-detail.html" title=""> Standard Post </a> </li>
-									<li> <a href="blog-detail-grid.html" title=""> Standard Post With Grid </a> </li>
-									<li> <a href="blog-detail-gallery.html" title=""> Gallery Post </a> </li>
-									<li> <a href="blog-detail-audio.html" title=""> Audio Post </a> </li>
-									<li> <a href="blog-detail-video.html" title=""> Video Post </a> </li>
-									<li> <a href="blog-detail-quote.html" title=""> Quote Post </a> </li>
-								</ul>
-							</li>
-							<li class="artigo-mega-menu"> <a href="blog-detail.html" title=""> Featured Posts </a>
+							<li class="current_page_item"> <a href="{{route('website_home')}}" title=""> Home </a></li>
+							<li class="current_page_item"> <a href="{{route('blog_index')}}" title=""> Blog </a></li>
+							<li class="current_page_item"> <a href="{{route('blog_programming')}}" title=""> Programming </a></li>
+							<li class="current_page_item"> <a href="{{route('blog_life_style')}}" title=""> Life style </a></li>
+							<li> <a href="search.html" title=""> Search </a> </li>
+							<li> <a href="404.html" title=""> Pages </a>
+                            <li> <a href="contact.html" title=""> Contact </a> </li>
+                            <li class="artigo-mega-menu"> <a href="blog-detail.html" title=""> Featured Posts </a>
 								<div class="artigo-mega-menu-container col-4">
 									<ul>
 										<li>
@@ -172,15 +144,6 @@
 									</ul>
 								</div>
 							</li>
-							<li> <a href="category-page.html" title=""> Category </a> </li>
-							<li> <a href="search.html" title=""> Search </a> </li>
-							<li> <a href="404.html" title=""> Pages </a>
-								<ul class="artigo-sub-menu">
-									<li> <a href="404.html" title=""> 404 </a> </li>
-									<li> <a href="coming-soon.html" title=""> Coming Soon </a> </li>
-								</ul>
-							</li>
-							<li> <a href="contact.html" title=""> Contact </a> </li>
 						</ul>
 					</nav>
 					<!-- *** MAIN NAVIGATION END *** -->
