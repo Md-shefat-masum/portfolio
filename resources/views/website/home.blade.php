@@ -1531,9 +1531,9 @@
 
     {{-- log part start  --}}
     <section id="blog">
-        <div class="continer">
+        <div class="container">
             <div class="row">
-                <div class="col-md-6 offset-lg-2">
+                <div class="col-md-6 m-auto">
                     <div class="common-heading">
                         <div class="top-line"></div>
                         <div class="bottom-line"></div>
@@ -1548,9 +1548,9 @@
                         <div class="img">
                             <img src="http://leila.malyarchuk.space/img/blog/img-4.jpg" alt="blog thumb">
                         </div>
-                        <h5></h5>
+                        <h5>web design</h5>
                         <h4>heading</h4>
-                        <p><span>Posted on:</span> 18-07-2019 5:20 pm</p>
+                        <p class="p1"><span>Posted on:</span> 18-07-2019 5:20 pm</p>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                             Aliquam tincidunt lectus aliquet quamde
