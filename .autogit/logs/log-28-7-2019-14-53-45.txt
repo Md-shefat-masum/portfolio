@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Wed Aug 28 2019 14:53:45 GMT+0600 (Bangladesh Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/Http/Controllers/blogController.php
+* resources/views/layouts/blog.blade.php
+* routes/web.php
+
+
+Created files:
+* .autogit/logs/log-28-7-2019-14-23-33.txt
+* resources/views/blog/all_blog.blade.php
+* resources/views/blog/blog_details.blade.php
+* resources/views/blog/search.blade.php
+
+
+Deleted files:
+
+
+Renamed files:

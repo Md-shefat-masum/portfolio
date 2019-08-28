@@ -161,10 +161,10 @@
                         <div class="left">
                             <ul>
                                 <li><a class="menus" href="#header">home</a></li>
-                                <li><a class="menus" href="#about-me">about me</a></li>
                                 <li><a class="menus" href="#service">services</a></li>
                                 <li><a class="menus" href="#skill">skills</a></li>
                                 <li><a class="menus" href="#portfolio">portfolio</a></li>
+                                <li><a class="menus" href="#blog">blog</a></li>
                                 <li><a class="menus" href="#contact">contact me</a></li>
                             </ul>
                         </div>
@@ -1544,20 +1544,53 @@
 
             <div class="row">
                 <div class="col-md-6">
-                    <div class="body">
-                        <div class="img">
-                            <img src="http://leila.malyarchuk.space/img/blog/img-4.jpg" alt="blog thumb">
+                    <div class="bg">
+                        <div class="row">
+                            <div class="col-4">
+                                <div class="img">
+                                    <img src="http://leila.malyarchuk.space/img/blog/img-4.jpg" alt="blog thumb">
+                                </div>
+                            </div>
+                            <div class="col-8">
+                                <div class="body">
+                                    <h4>heading</h4>
+                                    <h5>18 feb 2019 /</h5><h5>&nbsp;fashion</h5>
+                                    <p>
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                        Aliquam tincidunt lectus aliquet quamde commodo urna...
+                                    </p>
+                                    <a href="#">Read more..</a>
+                                </div>
+                            </div>
                         </div>
-                        <h5>web design</h5>
-                        <h4>heading</h4>
-                        <p class="p1"><span>Posted on:</span> 18-07-2019 5:20 pm</p>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Aliquam tincidunt lectus aliquet quamde
-                            pretiuquidsrqueac nisl tincidunt, auctor ligula ut, commodo urna...
-                        </p>
-                        <a href="#">Read more..</a>
                     </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="bg">
+                        <div class="row">
+                            <div class="col-4">
+                                <div class="img">
+                                    <img src="http://leila.malyarchuk.space/img/blog/img-4.jpg" alt="blog thumb">
+                                </div>
+                            </div>
+                            <div class="col-8">
+                                <div class="body">
+                                    <h4>heading</h4>
+                                    <h5>18 feb 2019 /</h5><h5>&nbsp;fashion</h5>
+                                    <p>
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                        Aliquam tincidunt lectus aliquet quamde commodo urna...
+                                    </p>
+                                    <a href="#">Read more..</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 text-center">
+                    <a class="read" href="{{route('blog_index')}}">read All Blogs..</a>
                 </div>
             </div>
         </div>

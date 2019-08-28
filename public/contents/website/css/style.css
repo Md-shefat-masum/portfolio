@@ -2720,70 +2720,64 @@ header part end
  blog part start
 ************************/
 #blog{
-    border: 1px solid #00c4fc;
     padding:75px 0px;
 }
 #blog .common-heading{
     margin-bottom:75px;
 }
+#blog .bg{
+    padding: 10px;
+    box-shadow: inset 0px 0px 10px rgba(71, 119, 198, 0.33);
+}
 #blog .body{
-    border:1px solid blue;
     padding: 10px;
     border-radius:5px;
     background: transparent;
     overflow: hidden;
 }
-#blog .body .img{
-    width:100%;
+#blog .img{
+    width:150px;
     overflow:hidden;
-    height:300px;
+    height:150px;
+    border-radius:50%;
+    margin-top:30px;
+    margin-left: 15px;
 }
-#blog .body .img img{
+#blog .img img{
     width:100%;
+    height:100%;
 }
 #blog .body h5{
-  display: inline-block;
-  padding: 10px 20px;
-  color: #fdfaf1;
-  box-shadow: inset 0px 0px 16px -3px #00c4fc;
-  text-shadow: 0 0px 20px #00c4fc;
-  font-family: sans;
-  text-transform: capitalize;
-  text-decoration: none;
-  transition: all linear 0.3s;
-  -moz-transition: all linear 0.3s;
-  -ms-transition: all linear 0.3s;
-  -o-transition: all linear 0.3s;
-  -webkit-transition: all linear 0.3s;
-  margin:15px 0px;
+    display:inline-block;
+    font-size: 16px;
+    font-weight: 300;
 }
 #blog .body h4{
-  font-size: 24px;
-  color: white;
-  padding-left: 20px;
-  text-transform: uppercase;
-}
-#blog .body .p1{
-  font-size:12px;
-  color:white;
-  padding: 10px 20px; 
-  margin:0;
-}
-#blog .body p span{
-  color: #0396ff;
-  font-size: 14px;
+    font-size: 18px;
+    margin-bottom: 8px;
+    color:white;
 }
 
 #blog .body p{
   color:#ffffff;
   font-size:14px;
-  padding:10px 20px;
+  padding:10px 00px;
   text-align: justify;
   margin:0;
 }
 #blog .body a{
-    padding: 30px 20px;
+    padding: 10px 20px;
     text-transform: capitalize;
+    display:inline-block;
+    box-shadow: inset 0px 0px 10px rgba(71, 119, 198, 0.33);
+}
+#blog .read{
+    padding: 10px 20px;
+    text-transform: capitalize;
+    display:inline-block;
+    box-shadow: inset 0px 0px 10px rgba(71, 119, 198, 0.33);
+    text-align:center;
+    margin-top:30px;
 }
 /**********************
  blog part start
