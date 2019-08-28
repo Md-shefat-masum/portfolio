@@ -100,10 +100,7 @@
 							<li class=""> <a href="{{route('website_home')}}" title=""> Home </a></li>
 							<li class="current_page_item"> <a href="{{route('blog_index')}}" title=""> Blog </a></li>
 							<li class=""> <a href="{{route('blog_programming')}}" title=""> Programming </a></li>
-							<li class=""> <a href="{{route('blog_life_style')}}" title=""> Life style </a></li>
-							<li> <a href="search.html" title=""> Search </a> </li>
-							<li> <a href="404.html" title=""> Pages </a>
-                            <li> <a href="contact.html" title=""> Contact </a> </li>
+                            <li class=""> <a href="{{route('blog_life_style')}}" title=""> Life style </a></li>
                             <li class="artigo-mega-menu"> <a href="blog-detail.html" title=""> Featured Posts </a>
 								<div class="artigo-mega-menu-container col-4">
 									<ul>
@@ -144,6 +141,7 @@
 									</ul>
 								</div>
 							</li>
+                            <li> <a href="contact.html" title=""> Contact </a> </li>
 						</ul>
 					</nav>
 					<!-- *** MAIN NAVIGATION END *** -->
