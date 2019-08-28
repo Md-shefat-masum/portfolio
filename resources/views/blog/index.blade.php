@@ -1,223 +1,34 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title> md shefat's blog </title>
-	<meta name="keywords" content="HTML5 Template">
-	<meta name="description" content="md shefat's blog">
-	<meta name="author" content="itembridge.com">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">	
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<!-- Favicon -->
-	<link rel="shortcut icon" href="images/favicon.ico">
-
-	<!-- Google Fonts -->
-	<link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=Engagement' rel='stylesheet' type='text/css'>
-	
-	<!-- Icon Fonts -->
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/themify-icons.css">
-	
-	<!-- Theme CSS -->
-	<link rel="stylesheet" href="style.css">
-	<link rel="stylesheet" href="css/grid.css">
-	<link rel="stylesheet" href="css/ui.css">
-	<link rel="stylesheet" href="css/magnific-popup.css">
-
-	<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
-	<link rel="stylesheet" type="text/css" href="css/owl.theme.css">
-	<link rel="stylesheet" type="text/css" href="css/owl.transitions.css">
-
-	<!-- REVOLUTION STYLE SHEETS -->
-	<link rel="stylesheet" type="text/css" href="js/rs-plugin/css/settings.css">
-	<!-- REVOLUTION LAYERS STYLES -->
-	<link rel="stylesheet" type="text/css" href="js/rs-plugin/css/layers.css">	
-	<!-- REVOLUTION NAVIGATION STYLES -->
-	<link rel="stylesheet" type="text/css" href="js/rs-plugin/css/navigation.css">
-
-	<link rel="stylesheet" type="text/css" href="css/responsive.css">
-
-	<!--[if lt IE 9]>
-		<script src="js/html5shiv.min.js"></script>
-		<script src="js/respond.min.js"></script>
-	<![endif]-->
-
-</head>
-
-<body>
-
-<!-- *** THEME CONTAINER STARTS *** -->
-<div class="artigo-theme-container">	
-	
-	<!-- *** HEADER STARTS *** -->
-	<header id="artigo-masthead" class="artigo-std-header">	
-
-		<div class="header-top-area">
-			<div class="artigo-container">
-				<div class="header-info">
-					<p> WELCOME TO <a href="index.html"> SIMPLE ARTIGO! </a> PERFECT FOR BLOGGERS </p>
-				</div>
-				<div class="social-links-container">
-					<ul class="artigo-social-links">
-						<li><a href="http://facebook.com" title=""><i class="fa fa-facebook"></i></a></li>
-						<li><a href="http://instagram.com" title=""><i class="fa fa-instagram"></i></a></li>
-						<li><a href="http://twitter.com" title=""><i class="fa fa-twitter"></i></a></li>
-						<li><a href="http://plus.google.com" title=""><i class="fa fa-google-plus"></i></a></li>
-						<li><a href="http://linkedin.com" title=""><i class="fa fa-linkedin"></i></a></li>
-					</ul>
-				</div>
-			</div>
-		</div>	
-
-		<div class="header-main">				
-			<div class="artigo-container">
-				<div id="logo">
-					<h1 class="site-title"><a href="index.html" rel="home"> Simple Artigo </a></h1>
-				</div>
-			</div>
-			
-			
-			<div class="artigo-navigation-holder">	
-				<div class="artigo-container">
-
-					<div class="nav-inner-left">
-						<a href="javascript:void(0);" class="artigo-author-popup artigo-full-screen-author"> <i class="ti-align-right"></i> </a>
-					</div>
-
-					<!-- *** MAIN NAVIGATION STARTS *** -->
-					<div id="artigo-responsive-menu-trigger">Menu</div>
-					<nav class="main-nav">
-						<ul>
-							<li class="current_page_item"> <a href="index.html" title=""> Home </a> 
-								<ul class="artigo-sub-menu">		
-									<li> <a href="index.html" title=""> Home - Sliders </a> 
-										<ul class="artigo-sub-menu">
-											<li> <a href="index-grid-slider.html" title=""> Grid Slider </a> </li>		
-											<li> <a href="index-timeline-slider.html" title=""> Timeline Blog Slider </a> </li>	
-											<li> <a href="index-carousel-slider.html" title=""> Carousel Slider </a> </li>
-											<li> <a href="index-fullwidth-slider.html" title=""> Fullwidth Slider </a> </li>
-											<li> <a href="index-content-width-slider.html" title=""> Content Width Slider </a> </li>
-											<li> <a href="index-column-grid-slider.html" title=""> Column Grid Slider </a> </li>
-										</ul>
-									</li>		
-									<li> <a href="index-minimal.html" title=""> Home - Minimal </a> </li>	
-									<li> <a href="index-fullwidth-slider.html" title=""> Home - Fullwidth </a> </li>	
-									<li> <a href="index-fullwidth-no-sidebar.html" title=""> Home - FW NO Sidebar </a> </li>	
-									<li> <a href="index-simple-rounded.html" title=""> Home - Simple Rounded Image Style </a> </li>	
-									<li> <a href="index-grid.html" title=""> Home - Grid Style </a> </li>							
-									<li> <a href="index-grid-sidebar.html" title=""> Home - Sidebar Grid </a> </li>					
-									<li> <a href="index-full-grid.html" title=""> Home - 1ST FW Then Grid </a> </li>							
-									<li> <a href="index-list.html" title=""> Home - List Style </a> </li>
-									<li> <a href="index-list-sidebar.html" title=""> Home - Sidebar List </a> </li>
-									<li> <a href="index-full-list.html" title=""> Home - 1ST FW Then List </a> </li>
-								</ul>
-							</li>
-							<li> <a href="author-detail.html" title=""> About </a> </li>
-							<li> <a href="blog-detail.html" title=""> Post Types </a> 
-								<ul class="artigo-sub-menu">	
-									<li> <a href="blog-detail.html" title=""> Standard Post </a> </li>
-									<li> <a href="blog-detail-grid.html" title=""> Standard Post With Grid </a> </li>
-									<li> <a href="blog-detail-gallery.html" title=""> Gallery Post </a> </li>
-									<li> <a href="blog-detail-audio.html" title=""> Audio Post </a> </li>
-									<li> <a href="blog-detail-video.html" title=""> Video Post </a> </li>
-									<li> <a href="blog-detail-quote.html" title=""> Quote Post </a> </li>
-								</ul>
-							</li>							
-							<li class="artigo-mega-menu"> <a href="blog-detail.html" title=""> Featured Posts </a> 
-								<div class="artigo-mega-menu-container col-4">
-									<ul>
-										<li>												
-											<div class="simple-article">
-												<a href="blog-detail.html" title=""> <img src="images/blog/simple-article1.jpg" alt="" title=""> </a>
-												<h6> <a href="blog-detail.html" title=""> Quisque sit amet felis Cons </a> </h6>
-												<span class="post-date"> <i class="ti-calendar"> </i> April 17, 2018 </span>
-											</div>		
-										</li>
-									</ul>
-									<ul>
-										<li>
-											<div class="simple-article">
-												<a href="blog-detail.html" title=""> <img src="images/blog/simple-article4.jpg" alt="" title=""> </a>
-												<h6> <a href="blog-detail.html" title=""> Quisque sit amet felis Cons </a> </h6>
-												<span class="post-date"> <i class="ti-calendar"> </i> April 17, 2018 </span>
-											</div>
-										</li>
-									</ul>
-									<ul>
-										<li>
-											<div class="simple-article">
-												<a href="blog-detail.html" title=""> <img src="images/blog/simple-article3.jpg" alt="" title=""> </a>
-												<h6> <a href="blog-detail.html" title=""> Quisque sit amet felis Cons </a> </h6>
-												<span class="post-date"> <i class="ti-calendar"> </i> April 17, 2018 </span>
-											</div>	
-										</li>
-									</ul>
-									<ul>
-										<li>
-											<div class="simple-article">
-												<a href="blog-detail.html" title=""> <img src="images/blog/simple-article2.jpg" alt="" title=""> </a>
-												<h6> <a href="blog-detail.html" title=""> Quisque sit amet felis Cons </a> </h6>
-												<span class="post-date"> <i class="ti-calendar"> </i> April 17, 2018 </span>
-											</div>
-										</li>
-									</ul>
-								</div>
-							</li>
-							<li> <a href="category-page.html" title=""> Category </a> </li>
-							<li> <a href="search.html" title=""> Search </a> </li>
-							<li> <a href="404.html" title=""> Pages </a> 
-								<ul class="artigo-sub-menu">		
-									<li> <a href="404.html" title=""> 404 </a> </li>	
-									<li> <a href="coming-soon.html" title=""> Coming Soon </a> </li>	
-								</ul>
-							</li>
-							<li> <a href="contact.html" title=""> Contact </a> </li>					
-						</ul>
-					</nav>     
-					<!-- *** MAIN NAVIGATION END *** -->
-
-					<div class="nav-inner-right">
-						<a href="javascript:void(0);" class="artigo-search artigo-full-screen-search"> <i class="ti-search"></i> </a>
-					</div>
-
-				</div>
-			</div>
-
-		</div>
-
-	</header>
-	<!-- *** HEADER ENDS *** -->	
-	
+	@extends('layouts.blog')
+    @section('content')
 	<!-- *** CONTENT WRAP STARTS *** -->
 	<div class="artigo-content-wrap">
 
 		<!-- *** SLIDER WRAP STARTS *** -->
-		<div class="artigo-slider-wrap">		
+		<div class="artigo-slider-wrap">
 			<div id="rev_slider_14_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:#000000;padding:0px;margin-top:0px;margin-bottom:0px;">
 			<!-- START REVOLUTION SLIDER 5.4.7.4 fullwidth mode -->
 				<div id="rev_slider_14_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.7.4">
 					<ul>	<!-- SLIDE  -->
-						<li data-index="rs-58" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="600"  data-thumb="images/revolution/fw-slider-1-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-slicey_shadow="0px 0px 0px 0px transparent">
+						<li data-index="rs-58" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="600"  data-thumb="{{asset('contents/blog')}}/images/revolution/fw-slider-1-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-slicey_shadow="0px 0px 0px 0px transparent">
 							<!-- MAIN IMAGE -->
-							<img src="images/revolution/fw-slider-1.jpg"  alt="" title="fw-slider-1"  width="1920" height="600" data-bgposition="center center" data-kenburns="on" data-duration="5000" data-ease="Power2.easeInOut" data-scalestart="100" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-blurstart="20" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+							<img src="{{asset('contents/blog')}}/images/revolution/fw-slider-1.jpg"  alt="" title="fw-slider-1"  width="1920" height="600" data-bgposition="center center" data-kenburns="on" data-duration="5000" data-ease="Power2.easeInOut" data-scalestart="100" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-blurstart="20" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-58-layer-9" 
-								 data-x="['center','center','center','center']" data-hoffset="['-112','-43','-81','44']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-219','-184','-185','182']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-58-layer-9"
+								 data-x="['center','center','center','center']" data-hoffset="['-112','-43','-81','44']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-219','-184','-185','182']"
 											data-width="['250','250','150','150']"
 								data-height="['150','150','100','100']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":300,"speed":1000,"frame":"0","from":"rX:0deg;rY:0deg;rZ:0deg;sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3700","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -229,19 +40,19 @@
 								style="z-index: 5;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 2 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-58-layer-10" 
-								 data-x="['center','center','center','center']" data-hoffset="['151','228','224','117']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-212','-159','71','-222']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-58-layer-10"
+								 data-x="['center','center','center','center']" data-hoffset="['151','228','224','117']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-212','-159','71','-222']"
 											data-width="['150','150','100','100']"
 								data-height="['200','150','150','150']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":350,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3650","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -253,19 +64,19 @@
 								style="z-index: 6;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 3 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-58-layer-29" 
-								 data-x="['center','center','center','center']" data-hoffset="['339','-442','104','-159']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['2','165','-172','219']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-58-layer-29"
+								 data-x="['center','center','center','center']" data-hoffset="['339','-442','104','-159']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['2','165','-172','219']"
 											data-width="['250','250','150','150']"
 								data-height="['150','150','100','100']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":400,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3600","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -277,19 +88,19 @@
 								style="z-index: 7;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 4 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-58-layer-12" 
-								 data-x="['center','center','center','center']" data-hoffset="['162','216','-239','193']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['195','245','6','146']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-58-layer-12"
+								 data-x="['center','center','center','center']" data-hoffset="['162','216','-239','193']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['195','245','6','146']"
 											data-width="['250','250','100','100']"
 								data-height="150"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":450,"speed":1000,"frame":"0","from":"opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3550","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -301,19 +112,19 @@
 								style="z-index: 8;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 5 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-58-layer-34" 
-								 data-x="['center','center','center','center']" data-hoffset="['-186','-119','273','-223']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['269','217','-121','69']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-58-layer-34"
+								 data-x="['center','center','center','center']" data-hoffset="['-186','-119','273','-223']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['269','217','-121','69']"
 											data-width="['300','300','150','150']"
 								data-height="['200','200','150','150']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3500","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -325,19 +136,19 @@
 								style="z-index: 9;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 6 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-58-layer-11" 
-								 data-x="['center','center','center','center']" data-hoffset="['-325','292','162','-34']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['3','55','-275','-174']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-58-layer-11"
+								 data-x="['center','center','center','center']" data-hoffset="['-325','292','162','-34']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['3','55','-275','-174']"
 											data-width="150"
 								data-height="['250','150','50','50']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":550,"speed":1000,"frame":"0","from":"opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3450","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -349,19 +160,19 @@
 								style="z-index: 10;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 7 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-58-layer-27" 
-								 data-x="['center','center','center','center']" data-hoffset="['-429','523','-190','-306']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-327','173','181','480']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-58-layer-27"
+								 data-x="['center','center','center','center']" data-hoffset="['-429','523','-190','-306']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-327','173','181','480']"
 											data-width="['250','250','150','150']"
 								data-height="['300','300','150','150']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":320,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3680","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -373,19 +184,19 @@
 								style="z-index: 11;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 8 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-58-layer-28" 
-								 data-x="['center','center','center','center']" data-hoffset="['422','-409','208','225']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-245','-72','294','-14']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-58-layer-28"
+								 data-x="['center','center','center','center']" data-hoffset="['422','-409','208','225']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-245','-72','294','-14']"
 											data-width="['300','300','150','150']"
 								data-height="['250','250','100','100']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":360,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3640","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -397,19 +208,19 @@
 								style="z-index: 12;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 9 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-58-layer-30" 
-								 data-x="['center','center','center','center']" data-hoffset="['549','-445','28','58']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['236','400','316','287']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-58-layer-30"
+								 data-x="['center','center','center','center']" data-hoffset="['549','-445','28','58']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['236','400','316','287']"
 											data-width="['300','300','150','200']"
 								data-height="['250','250','150','50']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":400,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3600","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -421,19 +232,19 @@
 								style="z-index: 13;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 10 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-58-layer-31" 
-								 data-x="['center','center','center','center']" data-hoffset="['-522','492','-151','262']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['339','-180','330','-141']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-58-layer-31"
+								 data-x="['center','center','center','center']" data-hoffset="['-522','492','-151','262']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['339','-180','330','-141']"
 											data-width="['300','300','150','150']"
 								data-height="['250','250','100','100']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":440,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3560","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -445,19 +256,19 @@
 								style="z-index: 14;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 11 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-58-layer-32" 
-								 data-x="['center','center','center','center']" data-hoffset="['-588','-375','-253','-207']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['72','-328','-172','-111']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-58-layer-32"
+								 data-x="['center','center','center','center']" data-hoffset="['-588','-375','-253','-207']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['72','-328','-172','-111']"
 											data-width="['300','300','150','150']"
 								data-height="['200','200','150','150']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":480,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3520","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -469,19 +280,19 @@
 								style="z-index: 15;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 12 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-58-layer-33" 
-								 data-x="['center','center','center','center']" data-hoffset="['-37','73','-76','-100']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-401','-340','-293','-246']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-58-layer-33"
+								 data-x="['center','center','center','center']" data-hoffset="['-37','73','-76','-100']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-401','-340','-293','-246']"
 											data-width="['450','400','250','250']"
 								data-height="['100','100','50','50']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":310,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3690","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -493,19 +304,19 @@
 								style="z-index: 16;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 13 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-58-layer-35" 
-								 data-x="['center','center','center','center']" data-hoffset="['186','38','116','17']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['363','402','190','395']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-58-layer-35"
+								 data-x="['center','center','center','center']" data-hoffset="['186','38','116','17']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['363','402','190','395']"
 											data-width="['350','400','250','250']"
 								data-height="['100','100','50','50']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":340,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3660","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -517,17 +328,17 @@
 								style="z-index: 17;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 14 -->
-							<div class="tp-caption tp-shape tp-shapewrapper " 
-								 id="slide-58-layer-1" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+							<div class="tp-caption tp-shape tp-shapewrapper "
+								 id="slide-58-layer-1"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
 											data-width="full"
 								data-height="full"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-basealign="slide" 
-								data-responsive_offset="off" 
+
+								data-type="shape"
+								data-basealign="slide"
+								data-responsive_offset="off"
 								data-responsive="off"
 								data-frames='[{"delay":10,"speed":500,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power4.easeOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -539,16 +350,16 @@
 								style="z-index: 18;background-color:rgba(0,0,0,0.1);"> </div>
 
 							<!-- LAYER NR. 15 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-58-layer-46" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-58-layer-46"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
 											data-width="545"
 								data-height="230"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;fb:10px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -560,16 +371,16 @@
 								style="z-index: 19;background-color:rgb(255,255,255);"> </div>
 
 							<!-- LAYER NR. 16 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-58-layer-47" 
-								 data-x="['center','center','center','center']" data-hoffset="['10','10','10','10']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','10']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-58-layer-47"
+								 data-x="['center','center','center','center']" data-hoffset="['10','10','10','10']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','10']"
 											data-width="545"
 								data-height="230"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":2510,"speed":1000,"frame":"0","from":"x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -581,16 +392,16 @@
 								style="z-index: 20;border-color:rgb(255,255,255);border-style:solid;border-width:1px 1px 1px 1px;"> </div>
 
 							<!-- LAYER NR. 17 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-58-layer-55" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-66','-66','-66','-66']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-58-layer-55"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-66','-66','-66','-66']"
 											data-width="68"
 								data-height="28"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1300,"speed":2000,"frame":"0","from":"sX:0.9;sY:0.9;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -602,16 +413,16 @@
 								style="z-index: 21;background-color:rgb(0,0,0);"> </div>
 
 							<!-- LAYER NR. 18 -->
-							<div class="tp-caption   tp-resizeme" 
-								 id="slide-58-layer-56" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-66','-66','-66','-66']" 
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-58-layer-56"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-66','-66','-66','-66']"
 											data-width="none"
 								data-height="none"
 								data-whitespace="nowrap"
-					 
-								data-type="text" 
-								data-responsive_offset="on" 
+
+								data-type="text"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1300,"speed":2000,"frame":"0","from":"sX:0.9;sY:0.9;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -623,16 +434,16 @@
 								style="z-index: 22; white-space: nowrap; font-size: 11px; line-height: 22px; font-weight: 700; color: #ffffff; letter-spacing: 1px;font-family:Droid Sans;text-transform:uppercase;">Fashion </div>
 
 							<!-- LAYER NR. 19 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-58-layer-49" 
-								 data-x="['center','center','center','center']" data-hoffset="['-59','-59','-59','-59']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-67']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-58-layer-49"
+								 data-x="['center','center','center','center']" data-hoffset="['-59','-59','-59','-59']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-67']"
 											data-width="30"
 								data-height="1"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1810,"speed":2000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -644,16 +455,16 @@
 								style="z-index: 23;background-color:rgb(0,0,0);"> </div>
 
 							<!-- LAYER NR. 20 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-58-layer-50" 
-								 data-x="['center','center','center','center']" data-hoffset="['59','59','59','59']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-67']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-58-layer-50"
+								 data-x="['center','center','center','center']" data-hoffset="['59','59','59','59']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-67']"
 											data-width="30"
 								data-height="1"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1810,"speed":2000,"frame":"0","from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -665,16 +476,16 @@
 								style="z-index: 24;background-color:rgb(0,0,0);"> </div>
 
 							<!-- LAYER NR. 21 -->
-							<div class="tp-caption   tp-resizeme" 
-								 id="slide-58-layer-52" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-58-layer-52"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
 											data-width="none"
 								data-height="none"
 								data-whitespace="nowrap"
-					 
-								data-type="text" 
-								data-responsive_offset="on" 
+
+								data-type="text"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1500,"speed":2000,"frame":"0","from":"sX:0.9;sY:0.9;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['center','center','center','center']"
@@ -687,16 +498,16 @@
 					ut efficitur nulla </div>
 
 							<!-- LAYER NR. 22 -->
-							<div class="tp-caption   tp-resizeme" 
-								 id="slide-58-layer-53" 
-								 data-x="['center','center','center','center']" data-hoffset="['-13','-13','-13','-13']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['62','62','62','62']" 
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-58-layer-53"
+								 data-x="['center','center','center','center']" data-hoffset="['-13','-13','-13','-13']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['62','62','62','62']"
 											data-width="none"
 								data-height="none"
 								data-whitespace="nowrap"
-					 
-								data-type="text" 
-								data-responsive_offset="on" 
+
+								data-type="text"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1750,"speed":2000,"frame":"0","from":"sX:0.9;sY:0.9;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -708,16 +519,16 @@
 								style="z-index: 26; white-space: nowrap; font-size: 16px; line-height: 22px; font-weight: 400; color: #000000; letter-spacing: 1px;font-family:Droid Serif;text-transform:uppercase;">Continue Reading </div>
 
 							<!-- LAYER NR. 23 -->
-							<div class="tp-caption   tp-resizeme" 
-								 id="slide-58-layer-54" 
-								 data-x="['center','center','center','center']" data-hoffset="['92','92','92','92']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['63','63','63','63']" 
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-58-layer-54"
+								 data-x="['center','center','center','center']" data-hoffset="['92','92','92','92']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['63','63','63','63']"
 											data-width="none"
 								data-height="none"
 								data-whitespace="nowrap"
-					 
-								data-type="text" 
-								data-responsive_offset="on" 
+
+								data-type="text"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -729,25 +540,25 @@
 								style="z-index: 27; white-space: nowrap; font-size: 14px; line-height: 22px; font-weight: 400; color: #000000; letter-spacing: 0px;font-family:Open Sans;"><i class="ti-arrow-right"></i> </div>
 						</li>
 						<!-- SLIDE  -->
-						<li data-index="rs-61" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="600"  data-thumb="images/revolution/fw-slider-2-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-slicey_shadow="0px 0px 0px 0px transparent">
+						<li data-index="rs-61" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="600"  data-thumb="{{asset('contents/blog')}}/images/revolution/fw-slider-2-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-slicey_shadow="0px 0px 0px 0px transparent">
 							<!-- MAIN IMAGE -->
-							<img src="images/revolution/fw-slider-2.jpg"  alt="" title="fw-slider-2"  width="1920" height="600" data-bgposition="center center" data-kenburns="on" data-duration="5000" data-ease="Power2.easeInOut" data-scalestart="100" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-blurstart="20" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+							<img src="{{asset('contents/blog')}}/images/revolution/fw-slider-2.jpg"  alt="" title="fw-slider-2"  width="1920" height="600" data-bgposition="center center" data-kenburns="on" data-duration="5000" data-ease="Power2.easeInOut" data-scalestart="100" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-blurstart="20" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 24 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-61-layer-9" 
-								 data-x="['center','center','center','center']" data-hoffset="['-112','-43','-81','44']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-219','-184','-185','182']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-61-layer-9"
+								 data-x="['center','center','center','center']" data-hoffset="['-112','-43','-81','44']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-219','-184','-185','182']"
 											data-width="['250','250','150','150']"
 								data-height="['150','150','100','100']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":300,"speed":1000,"frame":"0","from":"rX:0deg;rY:0deg;rZ:0deg;sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3700","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -759,19 +570,19 @@
 								style="z-index: 5;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 25 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-61-layer-10" 
-								 data-x="['center','center','center','center']" data-hoffset="['151','228','224','117']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-212','-159','71','-222']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-61-layer-10"
+								 data-x="['center','center','center','center']" data-hoffset="['151','228','224','117']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-212','-159','71','-222']"
 											data-width="['150','150','100','100']"
 								data-height="['200','150','150','150']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":350,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3650","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -783,19 +594,19 @@
 								style="z-index: 6;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 26 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-61-layer-29" 
-								 data-x="['center','center','center','center']" data-hoffset="['339','-442','104','-159']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['2','165','-172','219']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-61-layer-29"
+								 data-x="['center','center','center','center']" data-hoffset="['339','-442','104','-159']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['2','165','-172','219']"
 											data-width="['250','250','150','150']"
 								data-height="['150','150','100','100']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":400,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3600","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -807,19 +618,19 @@
 								style="z-index: 7;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 27 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-61-layer-12" 
-								 data-x="['center','center','center','center']" data-hoffset="['162','216','-239','193']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['195','245','6','146']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-61-layer-12"
+								 data-x="['center','center','center','center']" data-hoffset="['162','216','-239','193']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['195','245','6','146']"
 											data-width="['250','250','100','100']"
 								data-height="150"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":450,"speed":1000,"frame":"0","from":"opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3550","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -831,19 +642,19 @@
 								style="z-index: 8;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 28 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-61-layer-34" 
-								 data-x="['center','center','center','center']" data-hoffset="['-186','-119','273','-223']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['269','217','-121','69']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-61-layer-34"
+								 data-x="['center','center','center','center']" data-hoffset="['-186','-119','273','-223']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['269','217','-121','69']"
 											data-width="['300','300','150','150']"
 								data-height="['200','200','150','150']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3500","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -855,19 +666,19 @@
 								style="z-index: 9;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 29 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-61-layer-11" 
-								 data-x="['center','center','center','center']" data-hoffset="['-325','292','162','-34']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['3','55','-275','-174']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-61-layer-11"
+								 data-x="['center','center','center','center']" data-hoffset="['-325','292','162','-34']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['3','55','-275','-174']"
 											data-width="150"
 								data-height="['250','150','50','50']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":550,"speed":1000,"frame":"0","from":"opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3450","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -879,19 +690,19 @@
 								style="z-index: 10;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 30 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-61-layer-27" 
-								 data-x="['center','center','center','center']" data-hoffset="['-429','523','-190','-306']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-327','173','181','480']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-61-layer-27"
+								 data-x="['center','center','center','center']" data-hoffset="['-429','523','-190','-306']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-327','173','181','480']"
 											data-width="['250','250','150','150']"
 								data-height="['300','300','150','150']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":320,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3680","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -903,19 +714,19 @@
 								style="z-index: 11;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 31 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-61-layer-28" 
-								 data-x="['center','center','center','center']" data-hoffset="['422','-409','208','225']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-245','-72','294','-14']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-61-layer-28"
+								 data-x="['center','center','center','center']" data-hoffset="['422','-409','208','225']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-245','-72','294','-14']"
 											data-width="['300','300','150','150']"
 								data-height="['250','250','100','100']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":360,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3640","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -927,19 +738,19 @@
 								style="z-index: 12;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 32 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-61-layer-30" 
-								 data-x="['center','center','center','center']" data-hoffset="['549','-445','28','58']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['236','400','316','287']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-61-layer-30"
+								 data-x="['center','center','center','center']" data-hoffset="['549','-445','28','58']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['236','400','316','287']"
 											data-width="['300','300','150','200']"
 								data-height="['250','250','150','50']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":400,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3600","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -951,19 +762,19 @@
 								style="z-index: 13;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 33 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-61-layer-31" 
-								 data-x="['center','center','center','center']" data-hoffset="['-522','492','-151','262']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['339','-180','330','-141']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-61-layer-31"
+								 data-x="['center','center','center','center']" data-hoffset="['-522','492','-151','262']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['339','-180','330','-141']"
 											data-width="['300','300','150','150']"
 								data-height="['250','250','100','100']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":440,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3560","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -975,19 +786,19 @@
 								style="z-index: 14;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 34 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-61-layer-32" 
-								 data-x="['center','center','center','center']" data-hoffset="['-588','-375','-253','-207']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['72','-328','-172','-111']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-61-layer-32"
+								 data-x="['center','center','center','center']" data-hoffset="['-588','-375','-253','-207']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['72','-328','-172','-111']"
 											data-width="['300','300','150','150']"
 								data-height="['200','200','150','150']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":480,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3520","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -999,19 +810,19 @@
 								style="z-index: 15;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 35 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-61-layer-33" 
-								 data-x="['center','center','center','center']" data-hoffset="['-37','73','-76','-100']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-401','-340','-293','-246']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-61-layer-33"
+								 data-x="['center','center','center','center']" data-hoffset="['-37','73','-76','-100']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-401','-340','-293','-246']"
 											data-width="['450','400','250','250']"
 								data-height="['100','100','50','50']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":310,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3690","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1023,19 +834,19 @@
 								style="z-index: 16;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 36 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-61-layer-35" 
-								 data-x="['center','center','center','center']" data-hoffset="['186','38','116','17']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['363','402','190','395']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-61-layer-35"
+								 data-x="['center','center','center','center']" data-hoffset="['186','38','116','17']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['363','402','190','395']"
 											data-width="['350','400','250','250']"
 								data-height="['100','100','50','50']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":340,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3660","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1047,17 +858,17 @@
 								style="z-index: 17;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 37 -->
-							<div class="tp-caption tp-shape tp-shapewrapper " 
-								 id="slide-61-layer-1" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+							<div class="tp-caption tp-shape tp-shapewrapper "
+								 id="slide-61-layer-1"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
 											data-width="full"
 								data-height="full"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-basealign="slide" 
-								data-responsive_offset="off" 
+
+								data-type="shape"
+								data-basealign="slide"
+								data-responsive_offset="off"
 								data-responsive="off"
 								data-frames='[{"delay":10,"speed":500,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power4.easeOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1069,16 +880,16 @@
 								style="z-index: 18;background-color:rgba(0,0,0,0.1);"> </div>
 
 							<!-- LAYER NR. 38 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-61-layer-46" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-61-layer-46"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
 											data-width="545"
 								data-height="230"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;fb:10px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1090,16 +901,16 @@
 								style="z-index: 19;background-color:rgb(255,255,255);"> </div>
 
 							<!-- LAYER NR. 39 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-61-layer-47" 
-								 data-x="['center','center','center','center']" data-hoffset="['10','10','10','10']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','10']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-61-layer-47"
+								 data-x="['center','center','center','center']" data-hoffset="['10','10','10','10']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','10']"
 											data-width="545"
 								data-height="230"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":2510,"speed":1000,"frame":"0","from":"x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1111,16 +922,16 @@
 								style="z-index: 20;border-color:rgb(255,255,255);border-style:solid;border-width:1px 1px 1px 1px;"> </div>
 
 							<!-- LAYER NR. 40 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-61-layer-55" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-66','-66','-66','-66']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-61-layer-55"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-66','-66','-66','-66']"
 											data-width="68"
 								data-height="28"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1300,"speed":2000,"frame":"0","from":"sX:0.9;sY:0.9;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1132,16 +943,16 @@
 								style="z-index: 21;background-color:rgb(0,0,0);"> </div>
 
 							<!-- LAYER NR. 41 -->
-							<div class="tp-caption   tp-resizeme" 
-								 id="slide-61-layer-56" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-66','-66','-66','-66']" 
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-61-layer-56"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-66','-66','-66','-66']"
 											data-width="none"
 								data-height="none"
 								data-whitespace="nowrap"
-					 
-								data-type="text" 
-								data-responsive_offset="on" 
+
+								data-type="text"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1300,"speed":2000,"frame":"0","from":"sX:0.9;sY:0.9;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1153,16 +964,16 @@
 								style="z-index: 22; white-space: nowrap; font-size: 11px; line-height: 22px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Droid Sans;text-transform:uppercase;">Fashion </div>
 
 							<!-- LAYER NR. 42 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-61-layer-49" 
-								 data-x="['center','center','center','center']" data-hoffset="['-59','-59','-59','-59']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-67']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-61-layer-49"
+								 data-x="['center','center','center','center']" data-hoffset="['-59','-59','-59','-59']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-67']"
 											data-width="30"
 								data-height="1"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1810,"speed":2000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1174,16 +985,16 @@
 								style="z-index: 23;background-color:rgb(0,0,0);"> </div>
 
 							<!-- LAYER NR. 43 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-61-layer-50" 
-								 data-x="['center','center','center','center']" data-hoffset="['59','59','59','59']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-67']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-61-layer-50"
+								 data-x="['center','center','center','center']" data-hoffset="['59','59','59','59']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-67']"
 											data-width="30"
 								data-height="1"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1810,"speed":2000,"frame":"0","from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1195,16 +1006,16 @@
 								style="z-index: 24;background-color:rgb(0,0,0);"> </div>
 
 							<!-- LAYER NR. 44 -->
-							<div class="tp-caption   tp-resizeme" 
-								 id="slide-61-layer-52" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-61-layer-52"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
 											data-width="none"
 								data-height="none"
 								data-whitespace="nowrap"
-					 
-								data-type="text" 
-								data-responsive_offset="on" 
+
+								data-type="text"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1500,"speed":2000,"frame":"0","from":"sX:0.9;sY:0.9;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['center','center','center','center']"
@@ -1217,16 +1028,16 @@
 					ut efficitur nulla </div>
 
 							<!-- LAYER NR. 45 -->
-							<div class="tp-caption   tp-resizeme" 
-								 id="slide-61-layer-53" 
-								 data-x="['center','center','center','center']" data-hoffset="['-13','-13','-13','-13']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['62','62','62','62']" 
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-61-layer-53"
+								 data-x="['center','center','center','center']" data-hoffset="['-13','-13','-13','-13']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['62','62','62','62']"
 											data-width="none"
 								data-height="none"
 								data-whitespace="nowrap"
-					 
-								data-type="text" 
-								data-responsive_offset="on" 
+
+								data-type="text"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1750,"speed":2000,"frame":"0","from":"sX:0.9;sY:0.9;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1238,16 +1049,16 @@
 								style="z-index: 26; white-space: nowrap; font-size: 16px; line-height: 22px; font-weight: 400; color: #000000; letter-spacing: 1px;font-family:Droid Serif;text-transform:uppercase;">Continue Reading </div>
 
 							<!-- LAYER NR. 46 -->
-							<div class="tp-caption   tp-resizeme" 
-								 id="slide-61-layer-54" 
-								 data-x="['center','center','center','center']" data-hoffset="['92','92','92','92']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['63','63','63','63']" 
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-61-layer-54"
+								 data-x="['center','center','center','center']" data-hoffset="['92','92','92','92']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['63','63','63','63']"
 											data-width="none"
 								data-height="none"
 								data-whitespace="nowrap"
-					 
-								data-type="text" 
-								data-responsive_offset="on" 
+
+								data-type="text"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1259,25 +1070,25 @@
 								style="z-index: 27; white-space: nowrap; font-size: 14px; line-height: 22px; font-weight: 400; color: #000000; letter-spacing: 0px;font-family:Open Sans;"><i class="ti-arrow-right"></i> </div>
 						</li>
 						<!-- SLIDE  -->
-						<li data-index="rs-62" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="600"  data-thumb="images/revolution/fw-slider-3-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-slicey_shadow="0px 0px 0px 0px transparent">
+						<li data-index="rs-62" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="600"  data-thumb="{{asset('contents/blog')}}/images/revolution/fw-slider-3-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-slicey_shadow="0px 0px 0px 0px transparent">
 							<!-- MAIN IMAGE -->
-							<img src="images/revolution/fw-slider-3.jpg"  alt="" title="fw-slider-3"  width="1920" height="600" data-bgposition="center center" data-kenburns="on" data-duration="5000" data-ease="Power2.easeInOut" data-scalestart="100" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-blurstart="20" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+							<img src="{{asset('contents/blog')}}/images/revolution/fw-slider-3.jpg"  alt="" title="fw-slider-3"  width="1920" height="600" data-bgposition="center center" data-kenburns="on" data-duration="5000" data-ease="Power2.easeInOut" data-scalestart="100" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-blurstart="20" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 47 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-62-layer-9" 
-								 data-x="['center','center','center','center']" data-hoffset="['-112','-43','-81','44']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-219','-184','-185','182']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-62-layer-9"
+								 data-x="['center','center','center','center']" data-hoffset="['-112','-43','-81','44']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-219','-184','-185','182']"
 											data-width="['250','250','150','150']"
 								data-height="['150','150','100','100']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":300,"speed":1000,"frame":"0","from":"rX:0deg;rY:0deg;rZ:0deg;sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3700","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1289,19 +1100,19 @@
 								style="z-index: 5;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 48 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-62-layer-10" 
-								 data-x="['center','center','center','center']" data-hoffset="['151','228','224','117']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-212','-159','71','-222']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-62-layer-10"
+								 data-x="['center','center','center','center']" data-hoffset="['151','228','224','117']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-212','-159','71','-222']"
 											data-width="['150','150','100','100']"
 								data-height="['200','150','150','150']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":350,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3650","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1313,19 +1124,19 @@
 								style="z-index: 6;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 49 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-62-layer-29" 
-								 data-x="['center','center','center','center']" data-hoffset="['339','-442','104','-159']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['2','165','-172','219']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-62-layer-29"
+								 data-x="['center','center','center','center']" data-hoffset="['339','-442','104','-159']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['2','165','-172','219']"
 											data-width="['250','250','150','150']"
 								data-height="['150','150','100','100']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":400,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3600","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1337,19 +1148,19 @@
 								style="z-index: 7;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 50 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-62-layer-12" 
-								 data-x="['center','center','center','center']" data-hoffset="['162','216','-239','193']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['195','245','6','146']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-62-layer-12"
+								 data-x="['center','center','center','center']" data-hoffset="['162','216','-239','193']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['195','245','6','146']"
 											data-width="['250','250','100','100']"
 								data-height="150"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":450,"speed":1000,"frame":"0","from":"opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3550","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1361,19 +1172,19 @@
 								style="z-index: 8;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 51 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-62-layer-34" 
-								 data-x="['center','center','center','center']" data-hoffset="['-186','-119','273','-223']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['269','217','-121','69']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-62-layer-34"
+								 data-x="['center','center','center','center']" data-hoffset="['-186','-119','273','-223']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['269','217','-121','69']"
 											data-width="['300','300','150','150']"
 								data-height="['200','200','150','150']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3500","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1385,19 +1196,19 @@
 								style="z-index: 9;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 52 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-62-layer-11" 
-								 data-x="['center','center','center','center']" data-hoffset="['-325','292','162','-34']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['3','55','-275','-174']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-62-layer-11"
+								 data-x="['center','center','center','center']" data-hoffset="['-325','292','162','-34']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['3','55','-275','-174']"
 											data-width="150"
 								data-height="['250','150','50','50']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":550,"speed":1000,"frame":"0","from":"opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3450","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1409,19 +1220,19 @@
 								style="z-index: 10;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 53 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-62-layer-27" 
-								 data-x="['center','center','center','center']" data-hoffset="['-429','523','-190','-306']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-327','173','181','480']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-62-layer-27"
+								 data-x="['center','center','center','center']" data-hoffset="['-429','523','-190','-306']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-327','173','181','480']"
 											data-width="['250','250','150','150']"
 								data-height="['300','300','150','150']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":320,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3680","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1433,19 +1244,19 @@
 								style="z-index: 11;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 54 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-62-layer-28" 
-								 data-x="['center','center','center','center']" data-hoffset="['422','-409','208','225']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-245','-72','294','-14']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-62-layer-28"
+								 data-x="['center','center','center','center']" data-hoffset="['422','-409','208','225']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-245','-72','294','-14']"
 											data-width="['300','300','150','150']"
 								data-height="['250','250','100','100']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":360,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3640","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1457,19 +1268,19 @@
 								style="z-index: 12;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 55 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-62-layer-30" 
-								 data-x="['center','center','center','center']" data-hoffset="['549','-445','28','58']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['236','400','316','287']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-62-layer-30"
+								 data-x="['center','center','center','center']" data-hoffset="['549','-445','28','58']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['236','400','316','287']"
 											data-width="['300','300','150','200']"
 								data-height="['250','250','150','50']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":400,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3600","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1481,19 +1292,19 @@
 								style="z-index: 13;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 56 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-62-layer-31" 
-								 data-x="['center','center','center','center']" data-hoffset="['-522','492','-151','262']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['339','-180','330','-141']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-62-layer-31"
+								 data-x="['center','center','center','center']" data-hoffset="['-522','492','-151','262']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['339','-180','330','-141']"
 											data-width="['300','300','150','150']"
 								data-height="['250','250','100','100']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":440,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3560","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1505,19 +1316,19 @@
 								style="z-index: 14;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 57 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-62-layer-32" 
-								 data-x="['center','center','center','center']" data-hoffset="['-588','-375','-253','-207']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['72','-328','-172','-111']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-62-layer-32"
+								 data-x="['center','center','center','center']" data-hoffset="['-588','-375','-253','-207']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['72','-328','-172','-111']"
 											data-width="['300','300','150','150']"
 								data-height="['200','200','150','150']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="300" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="300"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":480,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3520","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1529,19 +1340,19 @@
 								style="z-index: 15;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 58 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-62-layer-33" 
-								 data-x="['center','center','center','center']" data-hoffset="['-37','73','-76','-100']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-401','-340','-293','-246']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-62-layer-33"
+								 data-x="['center','center','center','center']" data-hoffset="['-37','73','-76','-100']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-401','-340','-293','-246']"
 											data-width="['450','400','250','250']"
 								data-height="['100','100','50','50']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":310,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3690","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1553,19 +1364,19 @@
 								style="z-index: 16;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 59 -->
-							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
-								 id="slide-62-layer-35" 
-								 data-x="['center','center','center','center']" data-hoffset="['186','38','116','17']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['363','402','190','395']" 
+							<div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme"
+								 id="slide-62-layer-35"
+								 data-x="['center','center','center','center']" data-hoffset="['186','38','116','17']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['363','402','190','395']"
 											data-width="['350','400','250','250']"
 								data-height="['100','100','50','50']"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-slicey_offset="250" 
-								data-slicey_blurstart="0" 
-								data-slicey_blurend="20" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-slicey_offset="250"
+								data-slicey_blurstart="0"
+								data-slicey_blurend="20"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":340,"speed":1000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"+3660","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1577,17 +1388,17 @@
 								style="z-index: 17;background-color:rgba(0,0,0,0.5);"> </div>
 
 							<!-- LAYER NR. 60 -->
-							<div class="tp-caption tp-shape tp-shapewrapper " 
-								 id="slide-62-layer-1" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+							<div class="tp-caption tp-shape tp-shapewrapper "
+								 id="slide-62-layer-1"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
 											data-width="full"
 								data-height="full"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-basealign="slide" 
-								data-responsive_offset="off" 
+
+								data-type="shape"
+								data-basealign="slide"
+								data-responsive_offset="off"
 								data-responsive="off"
 								data-frames='[{"delay":10,"speed":500,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power4.easeOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1599,16 +1410,16 @@
 								style="z-index: 18;background-color:rgba(0,0,0,0.1);"> </div>
 
 							<!-- LAYER NR. 61 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-62-layer-46" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-62-layer-46"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
 											data-width="545"
 								data-height="230"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;fb:10px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1620,16 +1431,16 @@
 								style="z-index: 19;background-color:rgb(255,255,255);"> </div>
 
 							<!-- LAYER NR. 62 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-62-layer-47" 
-								 data-x="['center','center','center','center']" data-hoffset="['10','10','10','10']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','10']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-62-layer-47"
+								 data-x="['center','center','center','center']" data-hoffset="['10','10','10','10']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','10']"
 											data-width="545"
 								data-height="230"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":2510,"speed":1000,"frame":"0","from":"x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1641,16 +1452,16 @@
 								style="z-index: 20;border-color:rgb(255,255,255);border-style:solid;border-width:1px 1px 1px 1px;"> </div>
 
 							<!-- LAYER NR. 63 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-62-layer-55" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-66','-66','-66','-66']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-62-layer-55"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-66','-66','-66','-66']"
 											data-width="68"
 								data-height="28"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1300,"speed":2000,"frame":"0","from":"sX:0.9;sY:0.9;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1662,16 +1473,16 @@
 								style="z-index: 21;background-color:rgb(0,0,0);"> </div>
 
 							<!-- LAYER NR. 64 -->
-							<div class="tp-caption   tp-resizeme" 
-								 id="slide-62-layer-56" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-66','-66','-66','-66']" 
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-62-layer-56"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-66','-66','-66','-66']"
 											data-width="none"
 								data-height="none"
 								data-whitespace="nowrap"
-					 
-								data-type="text" 
-								data-responsive_offset="on" 
+
+								data-type="text"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1300,"speed":2000,"frame":"0","from":"sX:0.9;sY:0.9;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1683,16 +1494,16 @@
 								style="z-index: 22; white-space: nowrap; font-size: 11px; line-height: 22px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Droid Sans;text-transform:uppercase;">Fashion </div>
 
 							<!-- LAYER NR. 65 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-62-layer-49" 
-								 data-x="['center','center','center','center']" data-hoffset="['-59','-59','-59','-59']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-67']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-62-layer-49"
+								 data-x="['center','center','center','center']" data-hoffset="['-59','-59','-59','-59']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-67']"
 											data-width="30"
 								data-height="1"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1810,"speed":2000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1704,16 +1515,16 @@
 								style="z-index: 23;background-color:rgb(0,0,0);"> </div>
 
 							<!-- LAYER NR. 66 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
-								 id="slide-62-layer-50" 
-								 data-x="['center','center','center','center']" data-hoffset="['59','59','59','59']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-67']" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
+								 id="slide-62-layer-50"
+								 data-x="['center','center','center','center']" data-hoffset="['59','59','59','59']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['-67','-67','-67','-67']"
 											data-width="30"
 								data-height="1"
 								data-whitespace="nowrap"
-					 
-								data-type="shape" 
-								data-responsive_offset="on" 
+
+								data-type="shape"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1810,"speed":2000,"frame":"0","from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1725,16 +1536,16 @@
 								style="z-index: 24;background-color:rgb(0,0,0);"> </div>
 
 							<!-- LAYER NR. 67 -->
-							<div class="tp-caption   tp-resizeme" 
-								 id="slide-62-layer-52" 
-								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-62-layer-52"
+								 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
 											data-width="none"
 								data-height="none"
 								data-whitespace="nowrap"
-					 
-								data-type="text" 
-								data-responsive_offset="on" 
+
+								data-type="text"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1500,"speed":2000,"frame":"0","from":"sX:0.9;sY:0.9;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['center','center','center','center']"
@@ -1747,16 +1558,16 @@
 					ut efficitur nulla </div>
 
 							<!-- LAYER NR. 68 -->
-							<div class="tp-caption   tp-resizeme" 
-								 id="slide-62-layer-53" 
-								 data-x="['center','center','center','center']" data-hoffset="['-13','-13','-13','-13']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['62','62','62','62']" 
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-62-layer-53"
+								 data-x="['center','center','center','center']" data-hoffset="['-13','-13','-13','-13']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['62','62','62','62']"
 											data-width="none"
 								data-height="none"
 								data-whitespace="nowrap"
-					 
-								data-type="text" 
-								data-responsive_offset="on" 
+
+								data-type="text"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":1750,"speed":2000,"frame":"0","from":"sX:0.9;sY:0.9;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1768,16 +1579,16 @@
 								style="z-index: 26; white-space: nowrap; font-size: 16px; line-height: 22px; font-weight: 400; color: #000000; letter-spacing: 1px;font-family:Droid Serif;text-transform:uppercase;">Continue Reading </div>
 
 							<!-- LAYER NR. 69 -->
-							<div class="tp-caption   tp-resizeme" 
-								 id="slide-62-layer-54" 
-								 data-x="['center','center','center','center']" data-hoffset="['92','92','92','92']" 
-								 data-y="['middle','middle','middle','middle']" data-voffset="['63','63','63','63']" 
+							<div class="tp-caption   tp-resizeme"
+								 id="slide-62-layer-54"
+								 data-x="['center','center','center','center']" data-hoffset="['92','92','92','92']"
+								 data-y="['middle','middle','middle','middle']" data-voffset="['63','63','63','63']"
 											data-width="none"
 								data-height="none"
 								data-whitespace="nowrap"
-					 
-								data-type="text" 
-								data-responsive_offset="on" 
+
+								data-type="text"
+								data-responsive_offset="on"
 
 								data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -1792,34 +1603,34 @@
 					<div class="tp-bannertimer" style="height: 2px; background: rgba(255,255,255,0.5);"></div>
 
 				</div><!-- END REVOLUTION SLIDER -->
-			</div>	
+			</div>
 		</div>
-		<!-- *** SLIDER WRAP END *** -->	
+		<!-- *** SLIDER WRAP END *** -->
 
 		<div class="artigo-container">
 
-			<div class="artigo-content-holder">			
+			<div class="artigo-content-holder">
 
-				<article class="artigo-blog-item format-standard">					
+				<article class="artigo-blog-item format-standard">
 					<div class="entry-thumbnail">
-						<a class="post-thumbnail" href="blog-detail.html"> <img src="images/blog/blog-entry1.jpg" alt="" title=""> </a>
+						<a class="post-thumbnail" href="blog-detail.html"> <img src="{{asset('contents/blog')}}/images/blog/blog-entry1.jpg" alt="" title=""> </a>
 						<div class="posted-on"> <p> Posted on <span> 17, Feb 2018 </span> </p> </div>
 					</div>
 
 					<div class="entry-item-details">
 						<header class="entry-header">
 							<p class="entry-cat-links"> <a href="category-page.html"> Fashion </a></p>
-							<h4> <a href="blog-detail.html" title=""> young woman enjoying sunset in boho style </a> </h4>					
+							<h4> <a href="blog-detail.html" title=""> young woman enjoying sunset in boho style </a> </h4>
 						</header>
 
 						<div class="entry-meta-data">
-							<p class="post-author"> <a href="author-detail.html" title=""> <i class="ti-user"> </i> Smashing Themes </a> </p>											
-							<a href="blog-detail.html" title="" class="post-comments"> <i class="ti-comment"> </i> 5 Comments </a> 
+							<p class="post-author"> <a href="author-detail.html" title=""> <i class="ti-user"> </i> Smashing Themes </a> </p>
+							<a href="blog-detail.html" title="" class="post-comments"> <i class="ti-comment"> </i> 5 Comments </a>
 						</div>
 
 						<div class="entry-content">
 							<p>
-							 	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tincidunt lectus aliquet quamde pretiuquidsrqueac nisl tincidunt, auctor ligula ut, commodo urna... 
+							 	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tincidunt lectus aliquet quamde pretiuquidsrqueac nisl tincidunt, auctor ligula ut, commodo urna...
 							</p>
 						</div>
 
@@ -1833,8 +1644,8 @@
 										</g>
 								    </svg>
 							    </a>
-							</div>		
-							<div class="entry-share">	
+							</div>
+							<div class="entry-share">
 								<ul class="artigo-social-links">
 									<li><a href="mailto:" title=""><i class="ti-heart"></i></a></li>
 									<li><a href="http://facebook.com" title=""><i class="ti-facebook"></i></a></li>
@@ -1844,33 +1655,33 @@
 							</div>
 						</footer>
 					</div>
-				</article>		
+				</article>
 
-				<article class="artigo-blog-item format-standard blog-grid-img-display">					
+				<article class="artigo-blog-item format-standard blog-grid-img-display">
 					<div class="entry-thumbnail">
 						<div class="artigo-row">
 							<div class="artigo-col-6">
-								<a class="post-thumbnail" href="blog-detail-grid.html"> <img src="images/blog/blog-entry-col1.jpg" alt="" title=""> </a>
+								<a class="post-thumbnail" href="blog-detail-grid.html"> <img src="{{asset('contents/blog')}}/images/blog/blog-entry-col1.jpg" alt="" title=""> </a>
 							</div>
 							<div class="artigo-col-6">
-								<a class="post-thumbnail" href="blog-detail-grid.html"> <img src="images/blog/blog-entry-col2.jpg" alt="" title=""> </a>
+								<a class="post-thumbnail" href="blog-detail-grid.html"> <img src="{{asset('contents/blog')}}/images/blog/blog-entry-col2.jpg" alt="" title=""> </a>
 								<div class="artigo-topmargin-10"> </div>
-								<a class="post-thumbnail" href="blog-detail-grid.html"> <img src="images/blog/blog-entry-col3.jpg" alt="" title=""> </a>
+								<a class="post-thumbnail" href="blog-detail-grid.html"> <img src="{{asset('contents/blog')}}/images/blog/blog-entry-col3.jpg" alt="" title=""> </a>
 							</div>
 						</div>
-						
+
 						<div class="posted-on"> <p> Posted on <span> 17, Feb 2018 </span> </p> </div>
 					</div>
 
 					<div class="entry-item-details">
 						<header class="entry-header">
 							<p class="entry-cat-links"> <a href="category-page.html"> Travel </a></p>
-							<h4> <a href="blog-detail-grid.html" title=""> taking a photo with small mirrorless camera </a> </h4>					
+							<h4> <a href="blog-detail-grid.html" title=""> taking a photo with small mirrorless camera </a> </h4>
 						</header>
 
 						<div class="entry-meta-data">
-							<p class="post-author"> <a href="author-detail.html" title=""> <i class="ti-user"> </i> Smashing Themes </a> </p>											
-							<a href="blog-detail-grid.html" title="" class="post-comments"> <i class="ti-comment"> </i> 5 Comments </a> 
+							<p class="post-author"> <a href="author-detail.html" title=""> <i class="ti-user"> </i> Smashing Themes </a> </p>
+							<a href="blog-detail-grid.html" title="" class="post-comments"> <i class="ti-comment"> </i> 5 Comments </a>
 						</div>
 
 						<div class="entry-content">
@@ -1881,7 +1692,7 @@
 
 						<footer class="entry-footer">
 							<div class="entry-readmore">
-								<a href="blog-detail-grid.html" title=""> Continue Reading 
+								<a href="blog-detail-grid.html" title=""> Continue Reading
 									<svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
 										<g fill="none" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" stroke-miterlimit="10">
 											<circle class="arrow-icon--circle" cx="16" cy="16" r="15.12"></circle>
@@ -1889,8 +1700,8 @@
 										</g>
 								    </svg>
 								</a>
-							</div>		
-							<div class="entry-share">	
+							</div>
+							<div class="entry-share">
 								<ul class="artigo-social-links">
 									<li><a href="mailto:" title=""><i class="ti-heart"></i></a></li>
 									<li><a href="http://facebook.com" title=""><i class="ti-facebook"></i></a></li>
@@ -1900,22 +1711,22 @@
 							</div>
 						</footer>
 					</div>
-				</article>	
+				</article>
 
 
-				<article class="artigo-blog-item format-gallery">					
+				<article class="artigo-blog-item format-gallery">
 					<div class="entry-thumbnail">
 						<div class="artigo-blog-item-slideshow-wrap">
 							<div class="artigo-blog-item-slideshow">
-								<a href="blog-detail-gallery.html" title=""><img src="images/blog/blog-entry3.jpg" alt="" title=""></a>
-								<a href="blog-detail-gallery.html" title=""><img src="images/blog/blog-entry4.jpg" alt="" title=""></a>
-								<a href="blog-detail-gallery.html" title=""><img src="images/blog/blog-entry5.jpg" alt="" title=""></a>
-								<a href="blog-detail-gallery.html" title=""><img src="images/blog/blog-entry6.jpg" alt="" title=""></a>
+								<a href="blog-detail-gallery.html" title=""><img src="{{asset('contents/blog')}}/images/blog/blog-entry3.jpg" alt="" title=""></a>
+								<a href="blog-detail-gallery.html" title=""><img src="{{asset('contents/blog')}}/images/blog/blog-entry4.jpg" alt="" title=""></a>
+								<a href="blog-detail-gallery.html" title=""><img src="{{asset('contents/blog')}}/images/blog/blog-entry5.jpg" alt="" title=""></a>
+								<a href="blog-detail-gallery.html" title=""><img src="{{asset('contents/blog')}}/images/blog/blog-entry6.jpg" alt="" title=""></a>
 							</div>
 							<div class="artigo-blog-item-slideshow-nav">
 								<a class="prev"> <span class="ti-shift-left-alt"></span> </a>
 								<a class="next"> <span class="ti-shift-right-alt"></span> </a>
-							</div>	
+							</div>
 						</div>
 						<div class="posted-on"> <p> Posted on <span> 17, Feb 2018 </span> </p> </div>
 					</div>
@@ -1923,12 +1734,12 @@
 					<div class="entry-item-details">
 						<header class="entry-header">
 							<p class="entry-cat-links"> <a href="category-page.html"> Gallery </a></p>
-							<h4> <a href="blog-detail-gallery.html" title=""> Gallery fit girl listening to music on her iphone </a> </h4>					
+							<h4> <a href="blog-detail-gallery.html" title=""> Gallery fit girl listening to music on her iphone </a> </h4>
 						</header>
 
 						<div class="entry-meta-data">
-							<p class="post-author"> <a href="author-detail.html" title=""> <i class="ti-user"> </i> Smashing Themes </a> </p>											
-							<a href="blog-detail-gallery.html" title="" class="post-comments"> <i class="ti-comment"> </i> 5 Comments </a> 
+							<p class="post-author"> <a href="author-detail.html" title=""> <i class="ti-user"> </i> Smashing Themes </a> </p>
+							<a href="blog-detail-gallery.html" title="" class="post-comments"> <i class="ti-comment"> </i> 5 Comments </a>
 						</div>
 
 						<div class="entry-content">
@@ -1939,7 +1750,7 @@
 
 						<footer class="entry-footer">
 							<div class="entry-readmore">
-								<a href="blog-detail-gallery.html" title=""> Continue Reading 
+								<a href="blog-detail-gallery.html" title=""> Continue Reading
 									<svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
 										<g fill="none" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" stroke-miterlimit="10">
 											<circle class="arrow-icon--circle" cx="16" cy="16" r="15.12"></circle>
@@ -1947,8 +1758,8 @@
 										</g>
 								    </svg>
 								</a>
-							</div>		
-							<div class="entry-share">	
+							</div>
+							<div class="entry-share">
 								<ul class="artigo-social-links">
 									<li><a href="mailto:" title=""><i class="ti-heart"></i></a></li>
 									<li><a href="http://facebook.com" title=""><i class="ti-facebook"></i></a></li>
@@ -1958,10 +1769,10 @@
 							</div>
 						</footer>
 					</div>
-				</article>	
+				</article>
 
 
-				<article class="artigo-blog-item format-audio">					
+				<article class="artigo-blog-item format-audio">
 					<div class="entry-thumbnail">
 						<div class="artigo-audio-wrap">
 							<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/158786542&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -1972,12 +1783,12 @@
 					<div class="entry-item-details">
 						<header class="entry-header">
 							<p class="entry-cat-links"> <a href="category-page.html"> Audio </a></p>
-							<h4> <a href="blog-detail-audio.html" title=""> Sound Cloud Audio Alesso Tear the roof up </a> </h4>					
+							<h4> <a href="blog-detail-audio.html" title=""> Sound Cloud Audio Alesso Tear the roof up </a> </h4>
 						</header>
 
 						<div class="entry-meta-data">
-							<p class="post-author"> <a href="author-detail.html" title=""> <i class="ti-user"> </i> Smashing Themes </a> </p>											
-							<a href="blog-detail-audio.html" title="" class="post-comments"> <i class="ti-comment"> </i> 5 Comments </a> 
+							<p class="post-author"> <a href="author-detail.html" title=""> <i class="ti-user"> </i> Smashing Themes </a> </p>
+							<a href="blog-detail-audio.html" title="" class="post-comments"> <i class="ti-comment"> </i> 5 Comments </a>
 						</div>
 
 						<div class="entry-content">
@@ -1988,7 +1799,7 @@
 
 						<footer class="entry-footer">
 							<div class="entry-readmore">
-								<a href="blog-detail-audio.html" title=""> Continue Reading 
+								<a href="blog-detail-audio.html" title=""> Continue Reading
 									<svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
 										<g fill="none" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" stroke-miterlimit="10">
 											<circle class="arrow-icon--circle" cx="16" cy="16" r="15.12"></circle>
@@ -1996,8 +1807,8 @@
 										</g>
 								    </svg>
 								</a>
-							</div>		
-							<div class="entry-share">	
+							</div>
+							<div class="entry-share">
 								<ul class="artigo-social-links">
 									<li><a href="mailto:" title=""><i class="ti-heart"></i></a></li>
 									<li><a href="http://facebook.com" title=""><i class="ti-facebook"></i></a></li>
@@ -2007,7 +1818,7 @@
 							</div>
 						</footer>
 					</div>
-				</article>	
+				</article>
 
 				<nav class="paging-navigation">
 					<div class="pagination">
@@ -2020,217 +1831,8 @@
 						<a href="" class="page-numbers"> 6 </a>
 						<a href="" class="next page-numbers"> <i class="ti-arrow-right"> </i> </a>
 					</div>
-				</nav>	
+				</nav>
 
 			</div>
 
-			<div class="artigo-sidebar-holder right-sidebar">
-				<aside class="widget widget_author">
-					<h2 class="widget-title"> <span> About Me </span> </h2>
-					<div class="widget-container">
-						<div class="author-thumb">
-							<img src="images/author.jpg" alt="" title="">
-						</div>
-						<ul class="artigo-social-links">
-							<li><a href="http://facebook.com" title=""><i class="ti-facebook"></i></a></li>
-							<li><a href="http://twitter.com" title=""><i class="ti-twitter"></i></a></li>
-							<li><a href="http://plus.google.com" title=""><i class="ti-google"></i></a></li>
-							<li><a href="http://dribbble.com" title=""><i class="fa fa-dribbble"></i></a></li>
-						</ul>
-						<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tincidunt lectus aliquet quam </p>		
-						<img src="images/sign.png" alt=""  title="">
-					</div>
-				</aside>	
-				<aside class="widget widget_recent_entries">
-					<h2 class="widget-title"> <span> Popular Posts </span> </h2>
-					<div class="widget-container">
-						<ul>
-							<li>
-								<img src="images/blog/post-thumb-1.jpg" alt="" title="" class="post-thumbnail">
-								<a href="blog-detail.html" title=""> Quisque sit amet felis Cons </a>
-								<span class="post-date"> <i class="ti-calendar"> </i> April 17, 2018 </span>
-								<p> Lorem ipsum dolor sit amet, consectetur adipis elit... </p>
-							</li>
-							<li>
-								<img src="images/blog/post-thumb-2.jpg" alt="" title="" class="post-thumbnail">
-								<a href="blog-detail.html" title=""> Quisqu it amet felis </a>
-								<span class="post-date"> <i class="ti-calendar"> </i> April 17, 2018 </span>
-							</li>
-							<li>
-								<img src="images/blog/post-thumb-3.jpg" alt="" title="" class="post-thumbnail">
-								<a href="blog-detail.html" title=""> Quisqu it amet felis </a>
-								<span class="post-date"> <i class="ti-calendar"> </i> April 17, 2018 </span>
-							</li>
-						</ul>
-					</div>
-				</aside>	
-				<aside class="widget widget_newsletter">
-					<h2 class="widget-title"> <span> Newsletter </span> </h2>
-					<div class="widget-container">
-						<h6> Subscribe to my Newsletter </h6>
-						<p> Sign up and receive the latest <br> tips through email </p>
-						<form class="artigo-newsletter" action="#" method="get">
-							<input placeholder="ENTER YOUR EMAIL ADDRESS" type="email">
-							<input value="SUBSCRIBE NOW" type="submit">
-						</form>
-					</div>
-				</aside>	
-				<aside class="widget widget_categories">
-					<h2 class="widget-title"> <span> Categories </span> </h2>
-					<div class="widget-container">
-						<ul>
-							<li><a href="category-page.html" title=""> Lifestyle </a> <span> [5] </span> </li>
-							<li><a href="category-page.html" title=""> Fashion </a> <span> [10] </span> </li>
-							<li><a href="category-page.html" title=""> Everyday Blog </a> <span> [12] </span> </li>
-							<li><a href="category-page.html" title=""> Inspiration </a> <span> [7] </span> </li>
-							<li><a href="category-page.html" title=""> Development </a> <span> [2] </span> </li>
-							<li><a href="category-page.html" title=""> Photography </a> <span> [9] </span> </li>
-							<li><a href="category-page.html" title=""> Design </a> <span> [15] </span> </li>							
-						</ul>
-					</div>
-				</aside>	
-				<aside class="widget widget_categories">
-					<a href="" title=""> <img src="images/ad-banner.jpg" alt="" title=""> </a>
-				</aside>	
-				<aside class="widget widget_tag_cloud">
-					<h2 class="widget-title"> <span> Tag Cloud </span> </h2>
-					<div class="widget-container">
-						<div class="tagcloud">
-							<a href="category-page.html" title=""> Lifestyle </a>
-							<a href="category-page.html" title=""> Technology </a>
-							<a href="category-page.html" title=""> Blog </a>
-							<a href="category-page.html" title=""> Creative </a>
-							<a href="category-page.html" title=""> Fashion </a>
-							<a href="category-page.html" title=""> Design </a>
-							<a href="category-page.html" title=""> News </a>
-							<a href="category-page.html" title=""> Hot </a>
-							<a href="category-page.html" title=""> Thinking </a>
-						</div>
-					</div>
-				</aside>
-				<aside class="widget artigo-flickr-widget">
-					<h2 class="widget-title"> <span> Flickr </span> </h2>
-					<div class="widget-container">
-						<div class="flickr-widget" data-lightbox="gallery" data-id="52617155@N08" data-count="9" data-image-size="s"></div>
-					</div>
-				</aside>	
-				<aside class="widget artigo_twitter_widget">
-					<h2 class="widget-title"> <span> Twitter Feed </span> </h2>
-					<div class="widget-container">
-						<ul class="artigo-tweets-list" data-account="envato" data-limit="1"></ul>
-					</div>
-				</aside>	
-			</div>
-
-		</div>
-
-	</div>
-	<!-- *** CONTENT WRAP ENDS *** -->
-	
-	<!-- *** FOOTER STARTS *** -->
-	<footer id="artigo-footer">
-
-		<div class="instagram-widget">
-			<h4 class="instagram-title"> <a href="" title=""><i class="ti-instagram"> </i> Instagram </a> </h4>
-			<ul class="instagram-pics">
-				<li> <a href="" title=""> <img src="images/instagram/instagram-thumb-1.jpg" alt="" title=""> </a> </li>
-				<li> <a href="" title=""> <img src="images/instagram/instagram-thumb-2.jpg" alt="" title=""> </a> </li>
-				<li> <a href="" title=""> <img src="images/instagram/instagram-thumb-3.jpg" alt="" title=""> </a> </li>
-				<li> <a href="" title=""> <img src="images/instagram/instagram-thumb-4.jpg" alt="" title=""> </a> </li>
-				<li> <a href="" title=""> <img src="images/instagram/instagram-thumb-5.jpg" alt="" title=""> </a> </li>
-				<li> <a href="" title=""> <img src="images/instagram/instagram-thumb-6.jpg" alt="" title=""> </a> </li>
-			</ul>
-		</div>
-
-		<div class="artigo-container">
-			<div id="artigo-goto-top" class="artigo-top"> <a href="javascript:void(0);"> <i class="ti-upload"> </i> Back to top  </a> </div>
-		</div>
-
-		<div class="footer-social">
-			<div class="artigo-container">
-				<div class="footer-social-inner">
-					<ul class="footer-social-links">
-						<li><a href="http://facebook.com" title=""><i class="ti-facebook"></i> Facebook</a></li><li><a href="http://twitter.com" title=""><i class="ti-twitter"></i> Twitter</a></li><li><a href="http://plus.google.com" title=""><i class="ti-google"></i> Google Plus</a></li><li><a href="http://linkedin.com" title=""><i class="fa fa-pinterest"></i> Pinterest</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-
-		<div id="footer-logo">
-			<div class="artigo-container">			
-				<h1 class="site-title"><a href="index.html" rel="home"> Simple Artigo </a></h1>
-			</div>
-		</div>
-		
-		<div class="artigo-copyrights">
-			<div class="artigo-container">
-				<p> 2018 &copy; Copyright <a href="index.html" title=""> Simple Artigo </a> - All Rights Reserved </p>				
-			</div>
-		</div>	
-		
-	</footer>
-	<!-- *** FOOTER ENDS *** -->	
-	
-</div>
-<!-- *** THEME CONTAINER ENDS *** -->
-
-<!-- *** FULLSCREEN SEARCH POPUP STARTS *** -->
-<div class="artigo-full-screen-search-container">
-	<a href="javascript:void(0);" class="artigo-search-close"> <i class="ti-close"></i> </a>
-	<form class="search-form" action="search.html">
-		<input class="search-field" name="search" type="search" placeholder="" autocomplete="off" autocapitalize="off" spellcheck="false" />
-		<span class="search-info">Hit enter to search or ESC to close</span>
-	</form>
-</div>
-<!-- *** FULLSCREEN SEARCH POPUP ENDS *** -->
-
-<!-- *** FULLSCREEN AUTHOR POPUP STARTS *** -->
-<div class="artigo-full-screen-author-container">
-	<a href="javascript:void(0);" class="artigo-author-close"> <i class="ti-close"></i> </a>	
-	<div class="artigo-container">
-		<div class="artigo-author-detail">
-			<img src="images/author.jpg" alt="" title="" class="author-img">
-			<i> Hello, my name is </i>
-			<h3> LEISHA ADAM WILLIAMS </h3>
-			<h6> Web Designer &amp; Developer, Photographer </h6>
-			<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tincidunt lectus <br> aliquet quam fringilla pretium  Quisque ac nisl tincidunt, auctor ligula... </p>
-			<img src="images/sign-light.png" alt="" title="">
-			<ul class="artigo-social-links">
-				<li><a href="http://facebook.com" title=""><i class="ti-facebook"></i></a></li>
-				<li><a href="http://twitter.com" title=""><i class="ti-twitter"></i></a></li>
-				<li><a href="http://plus.google.com" title=""><i class="ti-google"></i></a></li>
-				<li><a href="http://dribbble.com" title=""><i class="ti-dribbble"></i></a></li>
-			</ul>
-		</div>
-	</div>
-</div>
-<!-- *** FULLSCREEN AUTHOR POPUP ENDS *** -->
-
-<!-- JQUERY INCLUDES -->
-<script src="js/jquery.min.js"></script>
-<script src="js/jquery.migrate.min.js"></script>
-
-<script src="js/plugins.js"></script>
-<script src="js/functions.js"></script>
-
-<!-- REVOLUTION JS FILES -->
-<script src="js/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-<script src="js/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-
-<!-- SLICEY ADD-ON FILES -->
-<script src='js/rs-plugin/js/revolution.addon.slicey.min.js?ver=1.0.0'></script>
-
-<!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->	
-<script src="js/rs-plugin/js/extensions/revolution.extension.actions.min.js"></script>
-<script src="js/rs-plugin/js/extensions/revolution.extension.carousel.min.js"></script>
-<script src="js/rs-plugin/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="js/rs-plugin/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="js/rs-plugin/js/extensions/revolution.extension.migration.min.js"></script>
-<script src="js/rs-plugin/js/extensions/revolution.extension.navigation.min.js"></script>
-<script src="js/rs-plugin/js/extensions/revolution.extension.parallax.min.js"></script>
-<script src="js/rs-plugin/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="js/rs-plugin/js/extensions/revolution.extension.video.min.js"></script>
-<script src="js/rs-plugin/js/revolution-script-demo.js"></script>
-<script src="js/rs-plugin/js/revolution-fullwidth-slider-demo.js"></script>
-</body>
-</html>
+@endsection

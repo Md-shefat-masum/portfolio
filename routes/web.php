@@ -23,6 +23,10 @@ Route::get('/', 'WebsiteController@index')->name('website_home');
 Route::post('/submit', 'WebsiteController@contact_submit')->name('');
 
 // ------------------------------------------------------------------------- //
+// blog routes
+Route::get('/blog', 'blogController@index')->name('blog_index');
+
+// ------------------------------------------------------------------------- //
 // admin panel routes
 Route::get('/admin', 'AdminController@index')->name('');
 // user

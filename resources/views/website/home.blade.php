@@ -1552,7 +1552,7 @@
                         <h4>heading</h4>
                         <p class="p1"><span>Posted on:</span> 18-07-2019 5:20 pm</p>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                             Aliquam tincidunt lectus aliquet quamde
                             pretiuquidsrqueac nisl tincidunt, auctor ligula ut, commodo urna...
                         </p>
