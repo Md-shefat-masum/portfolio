@@ -9,4 +9,12 @@ class blogController extends Controller
     public function index(Request $request){
         return view('blog.index');
     }
+
+    public function programming(Request $request){
+
+    }
+
+    public function lifestyle(Request $request){
+
+    }
 }

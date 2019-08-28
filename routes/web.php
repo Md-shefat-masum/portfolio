@@ -25,8 +25,8 @@ Route::post('/submit', 'WebsiteController@contact_submit')->name('');
 // ------------------------------------------------------------------------- //
 // blog routes
 Route::get('/blog', 'blogController@index')->name('blog_index');
-Route::get('/blog', 'blogController@programming')->name('blog_programming');
-Route::get('/blog', 'blogController@lifestyle')->name('blog_life_style');
+Route::get('/blog-programming', 'blogController@index')->name('blog_programming');
+Route::get('/blog-life-style', 'blogController@index')->name('blog_life_style');
 
 // ------------------------------------------------------------------------- //
 // admin panel routes

@@ -97,10 +97,10 @@
 					<div id="artigo-responsive-menu-trigger">Menu</div>
 					<nav class="main-nav">
 						<ul>
-							<li class="current_page_item"> <a href="{{route('website_home')}}" title=""> Home </a></li>
+							<li class=""> <a href="{{route('website_home')}}" title=""> Home </a></li>
 							<li class="current_page_item"> <a href="{{route('blog_index')}}" title=""> Blog </a></li>
-							<li class="current_page_item"> <a href="{{route('blog_programming')}}" title=""> Programming </a></li>
-							<li class="current_page_item"> <a href="{{route('blog_life_style')}}" title=""> Life style </a></li>
+							<li class=""> <a href="{{route('blog_programming')}}" title=""> Programming </a></li>
+							<li class=""> <a href="{{route('blog_life_style')}}" title=""> Life style </a></li>
 							<li> <a href="search.html" title=""> Search </a> </li>
 							<li> <a href="404.html" title=""> Pages </a>
                             <li> <a href="contact.html" title=""> Contact </a> </li>
