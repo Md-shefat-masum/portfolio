@@ -1546,11 +1546,11 @@
                 <div class="col-md-6">
                     <div class="body">
                         <div class="img">
-                            <img src="" alt="">
+                            <img src="http://leila.malyarchuk.space/img/blog/img-4.jpg" alt="blog thumb">
                         </div>
                         <h5></h5>
                         <h4>heading</h4>
-                        <span>posted on 18-07-2019 5:20 pm</span>
+                        <p><span>Posted on:</span> 18-07-2019 5:20 pm</p>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                             Aliquam tincidunt lectus aliquet quamde

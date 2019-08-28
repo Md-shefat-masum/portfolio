@@ -2717,6 +2717,24 @@ header part end
  team part start 
 ************************/
 /**********************
+ blog part start 
+************************/
+#blog{
+    border: 1px solid red;
+}
+#blog .common-heading{}
+#blog .body{}
+#blog .body .img{}
+#blog .body .img img{}
+#blog .body h5{}
+#blog .body h4{}
+#blog .body p{}
+#blog .body p span{}
+#blog .body a{}
+/**********************
+ blog part start 
+************************/
+/**********************
  contact part start
 ************************/
 #contact {
