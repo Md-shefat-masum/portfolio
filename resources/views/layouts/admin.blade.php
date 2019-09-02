@@ -199,6 +199,12 @@
                             </ul>
                         </li>
 
+                        <li> <a class="has-arrow waves-effect waves-dark" href="#" aria-expanded="false"><i class="wi wi-book"></i><span class="hide-menu">blog</span></a>
+                            <ul aria-expanded="false" class="collapse">
+                                <li><a href="{{url('admin/blog/ch')}}">All blog </a></li>
+                            </ul>
+                        </li>
+
                         {{-- <li> <a class="has-arrow waves-effect waves-dark" href="#" aria-expanded="false"><i class="mdi mdi-bullseye"></i><span class="hide-menu">website front sections</span></a>
                             <ul aria-expanded="false" class="collapse">
                                 <li><a href="{{url('admin/')}}">banner</a></li>

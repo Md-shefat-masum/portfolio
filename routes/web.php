@@ -61,5 +61,7 @@ Route::get('/admin/all-trash', 'BloodListController@trash')->name('donner_trash'
 Route::get('/admin/recycle-donner/{slug}', 'BloodListController@recycle_donner')->name('recycle_donner');
 Route::get('/admin/hard-delete-donner/{slug}', 'BloodListController@hard_delete')->name('hard_delete');
 
+Route::get('/admin/blog/ch', 'blogchController@index')->name('blog_ch')->middleware('auth');
+
 // chat routes
 Route::get('/admin/chat', 'chatController@index')->name('chat_home');
