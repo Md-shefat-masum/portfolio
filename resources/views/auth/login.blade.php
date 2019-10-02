@@ -103,7 +103,7 @@
             <div class="card-body" style="background: #3c3c3c;">
                 <form class="form-horizontal form-material" id="loginform" method="POST" action="{{ route('login') }}">
                     @csrf
-                    <a href="{{route('website_home')}}" class="text-center db"><img src="{{asset('contents/website')}}/images/logo.png" alt="Home" />
+                    <a href="{{route('website_home')}}" class="text-center db"><img src="{{asset('contents/website')}}/images/logos/logo.png" alt="Home" />
                         <br/>
                         {{-- <img src="{{asset('contents/admin/assets')}}/images/logo-text.png" alt="Home" /> --}}
                     </a>
