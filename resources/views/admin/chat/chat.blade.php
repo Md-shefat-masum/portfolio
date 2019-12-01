@@ -2136,7 +2136,7 @@
         <!-- ============================================================== -->
         <!-- Start Page Content -->
         <!-- ============================================================== -->
-        <div class="layout">
+            <div class="layout">
                 <!-- Start of Navigation -->
                 <nav class="navigation">
                     <div class="container">
