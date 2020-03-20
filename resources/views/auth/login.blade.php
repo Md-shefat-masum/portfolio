@@ -80,7 +80,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Admin Panel</title>
+    <title>Admin.Shefat</title>
     <link rel="icon" type="image/png" sizes="16x16" href="{{asset('contents/admin/assets')}}/images/favicon.png">
     <link href="{{asset('contents/admin/assets')}}/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{asset('contents/admin/assets')}}/plugins/morrisjs/morris.css" rel="stylesheet">

@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Fri Mar 20 2020 23:39:06 GMT+0600 (Bangladesh Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-1-11-2019-20-2-4.txt
+
+
+Deleted files:
+* my_site.zip
+
+
+Renamed files:
